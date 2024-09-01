@@ -1,3 +1,5 @@
+---
+---
 <img align="right" src="https://komarev.com/ghpvc/?username=eversonfilipe&color=7cfc00"><br>
 <div align="center">
   <a href="https://github.com/eversonfilipe">
@@ -20,6 +22,7 @@
 </div>
 
 ## 🗺️ ABOUT ME
+---
 
 Sou formada em <b>Ciência da Computação</b> pela Uninorte (2021) e atualmente atuo no cargo <b>Desenvolvedora de testes Pleno</b> no INDT - Instituto de Desenvolvimento Tecnológico. Atuando há 3 anos na área de teste com testes frontend e backend. Por aqui gosto de compartilhar automações de teste geralmente em Cypress e Selenium. Atualmente estou estudando Playwright e venho trazer repositórios sobre.
 
