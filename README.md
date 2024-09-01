@@ -20,22 +20,32 @@
   <a href="https://instagram.com/eversonfilippe" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
 
-<div>
-  <img align="center" src="elders_md_photo.png" width="100">
+---
+<div align="left">
+  <img align="left" src="about_me.png">
 </div> 
 
+:octocat: Hello! I'm <b> Éverson Filipe</b>! <br> I'm brazilian, by the way i'll be sharing things in the English Language <br>
+because of it international use and understanding, as the business in IT area recommends. <br>
+I'm currently studying <b>Computer Science</b>, focusing primarly on <b>computer general concepts</b> and <b>innovation</b>. But, during
+my childhood and puberty, i've been working in a retail IT shop at a small town far away from the state's capital. In the three years of my
+high school, i did <b>projects</b> that help me and my community, you can see it more clearly in my <b><i>Linkedin</i></b>.
+<br> The <b>objective</b> of this profile is to share some of my achievements and repositories which i'll be creating as "columns" of my studies.
+<br> Be free to give your opinions and share, and come with me throught all the programming challenges. 🐶
+
 ---
-Sou formada em <b>Ciência da Computação</b> pela Uninorte (2021) e atualmente atuo no cargo <b>Desenvolvedora de testes Pleno</b> no INDT - Instituto de Desenvolvimento Tecnológico. Atuando há 3 anos na área de teste com testes frontend e backend. Por aqui gosto de compartilhar automações de teste geralmente em Cypress e Selenium. Atualmente estou estudando Playwright e venho trazer repositórios sobre.
 
 <div align="center">
   <table>
     <tr>
-      <td><b>🎓 Cientista da Computação</b></td>
-      <td><b>🧪 Desenvolvedora de Testes</b></td>
+      <td><b>🎓 Computer Scientist</b></td>
+      <td><b>☁️ Cloud Services</b></td>
+      <td><b>🤖 IoT
     </tr>
     <tr>
-      <td><img src="https://apilgriminnarnia.files.wordpress.com/2018/09/legally-blonde-laptop-e1536078931635.jpg" width="300px" height="170px"></td>
-      <td><img src="https://reactiongifs.me/wp-content/uploads/2019/05/Testers-Vs-Developers.gif" width="300px" height="170px"> </td>
+      <td><img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnhwYTh6YmZ3MHgxampvbTR0aW8xYzAxanU5a256aXd5MmRlZ2diayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zOvBKUUEERdNm/giphy.gif" width="300px" height="170px"></td>
+      <td><img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWo1N2JhZTViMGdueW84YzQwb2dhZXE0bGRoYW1zd2RwODhzcjhxYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TjwGZSdGg1cfDZHQf4/giphy.gif" width="300px" height="170px"> </td>
+      <td><img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDQ1NGUzZ2JwN2N4N3l3ODE3ZDhxbW9pcjduZHBvZjF5dXVseXRoaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/J4yNWuvc2afezrAnQ2/giphy.gif"> </td>
     </tr>
   </table>
 </div>
