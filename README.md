@@ -1,9 +1,8 @@
 ---
----
 <img align="right" src="https://komarev.com/ghpvc/?username=eversonfilipe&color=7cfc00"><br>
 <div align="center">
   <a href="https://github.com/eversonfilipe">
-    <img align="center" src="hello, WORLD!_title.png" width="1000">
+    <img align="center" src="elders_md_photo.png" width="500">
   </a>
 </div>
   <a href="https://github.com/eversonfilipe">
@@ -21,9 +20,11 @@
   <a href="https://instagram.com/eversonfilippe" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
 
-## 🗺️ ABOUT ME
----
+<div>
+  <img align="center" src="elders_md_photo.png" width="100">
+</div> 
 
+---
 Sou formada em <b>Ciência da Computação</b> pela Uninorte (2021) e atualmente atuo no cargo <b>Desenvolvedora de testes Pleno</b> no INDT - Instituto de Desenvolvimento Tecnológico. Atuando há 3 anos na área de teste com testes frontend e backend. Por aqui gosto de compartilhar automações de teste geralmente em Cypress e Selenium. Atualmente estou estudando Playwright e venho trazer repositórios sobre.
 
 <div align="center">
