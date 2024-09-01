@@ -45,7 +45,7 @@ high school, i did <b>projects</b> that help me and my community, you can see it
     <tr>
       <td><img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnhwYTh6YmZ3MHgxampvbTR0aW8xYzAxanU5a256aXd5MmRlZ2diayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zOvBKUUEERdNm/giphy.gif" width="300px" height="170px"></td>
       <td><img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWo1N2JhZTViMGdueW84YzQwb2dhZXE0bGRoYW1zd2RwODhzcjhxYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TjwGZSdGg1cfDZHQf4/giphy.gif" width="300px" height="170px"> </td>
-      <td><img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDQ1NGUzZ2JwN2N4N3l3ODE3ZDhxbW9pcjduZHBvZjF5dXVseXRoaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/J4yNWuvc2afezrAnQ2/giphy.gif"> </td>
+      <td><img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDQ1NGUzZ2JwN2N4N3l3ODE3ZDhxbW9pcjduZHBvZjF5dXVseXRoaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/J4yNWuvc2afezrAnQ2/giphy.gif" width="300px" height ="170px"> </td>
     </tr>
   </table>
 </div>
