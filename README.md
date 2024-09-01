@@ -50,25 +50,31 @@ high school, i did <b>projects</b> that help me and my community, you can see it
   </table>
 </div>
 
-<b>Além da programação...</b>
+---
 
-- Amo Karaoke.
-- Gosto de jogos do genero indie, terror e co-op. Faço live terça e quinta na [Twitch](https://www.twitch.tv/prinsycho).
-- Adoro organização e sou viciada em Notion. De vez ou outra posto coisas desse nicho no [Youtube](https://www.youtube.com/@AndreinaOliveira/videos).
-- Gosto de ler e super recomendo alguns dos meus livros favoritos que ajudam a pensar fora da caixa. 
-  - <a href='https://www.amazon.com.br/morte-dia-vale-pena-viver/dp/8543107202/ref=sr_1_1?crid=10O1MH7C5CAMM&keywords=a+morte+%C3%A9+um+dia+que+vale+viver&qid=1646599578&sprefix=a+morte+%2Caps%2C203&sr=8-1'>A morte é um dia que vale a pena viver</a>
-  -  <a href='https://www.amazon.com.br/Mais-esperto-que-Diabo-liberdade/dp/8568014003/ref=sr_1_5?crid=3GSH2MZHKL3D3&keywords=mais+esperto+que+o+diabo&qid=1646604662&sprefix=Mais+es%2Caps%2C290&sr=8-5'>Mais esperto que o Diabo</a>
-  - <a href='https://www.amazon.com.br/Louco-por-viver-Roberto-Shinyashiki/dp/8573128607/ref=sr_1_1?crid=17F9GOLR7DPT0&keywords=louco+por+viver&qid=1646599654&sprefix=louco+por%2Caps%2C194&sr=8-1'>Louco por viver</a>
+<div align="left">
+  <image align="left" src="PLUS+.png">
+<div/>
+
+- I have a great passion for the study of Art, History, Cultures and Religions around the <b>World 🌎</b>
+- Since my childhood, i've been hearing a lot of international music, but recently i'm listening more of MPB.
+- I like to study and i'm always creating notes or resumes on <b>Notion<b/>
+- I like to read and watch movies and Tv's shows, like:
+  - <a href='https://www.imdb.com/title/tt0317248/?language=pt-br'>City of God </a>
+  -  <a href='https://www.imdb.com/title/tt0068646/?ref_=ext_shr_lnk'>The Godfather</a>
+  - <a href='https://www.imdb.com/title/tt3032476/?ref_=ext_shr_lnk'>Better Call Saul</a>
 
 <div align="center">
   <table>
     <tr>
-      <td><img src="https://64.media.tumblr.com/tumblr_lyxj33CYzW1qigluvo4_250.gif"></td>
-      <td><img src="https://64.media.tumblr.com/tumblr_lyxj33CYzW1qigluvo5_250.gifv"></td>
-      <td><img src="https://64.media.tumblr.com/tumblr_lyxj33CYzW1qigluvo6_250.gifv"></td>
+      <td><img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWE5bzBpbGdwZXJsa3p0ZTZmYjN0cnJsNDJ1em9qNjIycmR4Z3ZlayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/k2aU12mKl3lox2yQGK/giphy.gif"></td>
+      <td><img src="https://media.giphy.com/media/l4FGGafcOHmrlQxG0/giphy.gif?cid=790b7611sd9ssmkzmw0gywlvmx0oubg9kwcqtoccszpi7gcq&ep=v1_gifs_search&rid=giphy.gif&ct=g"></td>
+      <td><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTh3cXgzNWo5MGdjaDVpZTVoZnBmbXBwYjdxYXlybml0cXN3dW8zaSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/40dEau6bZRO3S/giphy.gif"></td>
     </tr>
   </table>
 </div>
+
+---
 
 ## ⭐️ Hard Skills
 <!--  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=andreinaoliveira&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true%22/"> --> 
@@ -97,9 +103,9 @@ tokyonight: 35AFA3 Green | BF91F3 Purple | 1A1B27 Dark
 -->
 
 
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=andreinaoliveira&theme=tokyonight) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=andreinaoliveira&hide=Html&theme=tokyonight) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=andreinaoliveira&theme=tokyonight) |
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=eversonfilipe&theme=tokyonight) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=eversonfilipe&hide=Html&theme=tokyonight) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=eversonfilipe&theme=tokyonight) |
 | :-: | :-: | :-: |
 
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=andreinaoliveira&theme=tokyonight) | ![](https://github-readme-streak-stats.herokuapp.com/?user=andreinaoliveira&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=1A1B27&stroke=35AFA3&ring=BF91F3&fire=BF91F3&currStreakNum=BF91F3&sideNums=BF91F3&currStreakLabel=BF91F3&sideLabels=BF91F3&dates=35AFA3) |
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=eversonfilipe&theme=tokyonight) | ![](https://github-readme-streak-stats.herokuapp.com/?user=eversonfilipe&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=1A1B27&stroke=35AFA3&ring=BF91F3&fire=BF91F3&currStreakNum=BF91F3&sideNums=BF91F3&currStreakLabel=BF91F3&sideLabels=BF91F3&dates=35AFA3) |
 | :-: | :-: |
 
