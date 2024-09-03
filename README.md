@@ -40,12 +40,12 @@ high school, i did <b>projects</b> that help me and my community, you can see it
     <tr>
       <td><b>🎓 Computer Scientist</b></td>
       <td><b>☁️ Cloud Services</b></td>
-      <td><b>🤖 IoT
+      <td><b>🤖 Data Scientist
     </tr>
     <tr>
       <td><img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnhwYTh6YmZ3MHgxampvbTR0aW8xYzAxanU5a256aXd5MmRlZ2diayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zOvBKUUEERdNm/giphy.gif" width="300px" height="170px"></td>
       <td><img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWo1N2JhZTViMGdueW84YzQwb2dhZXE0bGRoYW1zd2RwODhzcjhxYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TjwGZSdGg1cfDZHQf4/giphy.gif" width="300px" height="170px"> </td>
-      <td><img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDQ1NGUzZ2JwN2N4N3l3ODE3ZDhxbW9pcjduZHBvZjF5dXVseXRoaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/J4yNWuvc2afezrAnQ2/giphy.gif" width="300px" height ="170px"> </td>
+      <td><img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDdya2UxejNsMmRhZ2ptYzA1cTMxMDZuMWE0YjlrdGdobDIzcGEwdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xTiTnxpQ3ghPiB2Hp6/giphy.gif" width="300px" height ="170px"> </td>
     </tr>
   </table>
 </div>
@@ -81,16 +81,15 @@ high school, i did <b>projects</b> that help me and my community, you can see it
 </div>
 <!--  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=andreinaoliveira&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true%22/"> --> 
 <div align="right">
-  <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white">
-  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white">
-  <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white">
-  <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
-  <img src="https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white">
-  <img src = "https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white">
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
-  <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white">
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
+  <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white">
+  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">
+  <img src = "https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white">
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
   <br>
 </div>
 
