@@ -27,7 +27,7 @@
 
 :octocat: Hello! I'm <b> Éverson Filipe</b>! <br> I'm brazilian, by the way i'll be sharing things in the English Language <br>
 because of it international use and understanding, as the business in IT area recommends. <br>
-I'm currently studying <b>Computer Science</b>, focusing primarly on <b>computer general concepts</b> and <b>innovation</b>. But, during
+I'm currently studying <b>Computer Science</b>, focusing primarly on <b>Data Engineer</b> and <b>Cloud Services</b>. But, during
 my childhood and puberty, i've been working in a retail IT shop at a small town far away from the state's capital. In the three years of my
 high school, i did <b>projects</b> that help me and my community, you can see it more clearly in my <b><i>Linkedin</i></b>.
 <br> The <b>objective</b> of this profile is to share some of my achievements and repositories which i'll be creating as "columns" of my studies.
@@ -40,7 +40,7 @@ high school, i did <b>projects</b> that help me and my community, you can see it
     <tr>
       <td><b>🎓 Computer Scientist</b></td>
       <td><b>☁️ Cloud Services</b></td>
-      <td><b>🤖 Data Scientist
+      <td><b>🤖 Data Engineer
     </tr>
     <tr>
       <td><img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnhwYTh6YmZ3MHgxampvbTR0aW8xYzAxanU5a256aXd5MmRlZ2diayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zOvBKUUEERdNm/giphy.gif" width="300px" height="170px"></td>
@@ -81,14 +81,12 @@ high school, i did <b>projects</b> that help me and my community, you can see it
 </div>
 <!--  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=andreinaoliveira&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true%22/"> --> 
 <div align="right">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white">
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
+  <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=Databricks&logoColor=white">
+  <img src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white">
-  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
-  <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white">
-  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">
-  <img src = "https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white">
+  <img src = "https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
   <br>
 </div>
 
