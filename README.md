@@ -76,11 +76,6 @@ Beyond technical delivery, I was nominated for Kartado's Agility Award for resol
 <a id="kartado"></a>
 * **Technical Implementation Intern** @ Kartado <br>
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"><img src="https://img.shields.io/badge/json%20web%20tokens-323330?style=for-the-badge&logo=json-web-tokens&logoColor=pink" alt="JWT/JSON geral"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"><img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django Admin"><img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS"><img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" /><img src="https://img.shields.io/badge/Microsoft_SharePoint-0078D4?style=for-the-badge&logo=microsoft-sharepoint&logoColor=white" /><br>
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/ca71c911-2970-4d05-b546-18b94610f061" width="30%" height="15%" alt="[Descrição da imagem 1]">
-  <img src="https://github.com/user-attachments/assets/23c79d87-c6ed-4769-8249-3ab64fa9e303" width="30%" height="15%"/>
-  <img src="https://github.com/user-attachments/assets/22d9c6e5-b12e-4427-a883-5d968efe482a" width="30%" height="15%"/>
-</p>
 
 ````
     * Developed Python ETL automation scripts integrated with Django ORM, replacing manual data transformation and loading workflows.
