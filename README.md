@@ -25,23 +25,23 @@
 ---
 
 <a id="sumario"></a>
-## 📑 Summary
+## Summary
 
-- [👨‍💻 About Me](#about-me)
+- [About Me](#about-me)
   - [Who Éverson Filipe is](#who-everson-filipe-is)
   - [My standards are](#my-standards-are)
   - [My Results and Metrics](#my-results-and-metrics)
-- [💼 Professional Trajectory](#professional-trajectory)
+- [Professional Trajectory](#professional-trajectory)
   - [Technical Implementation Intern @ Kartado](#kartado)
   - [Agile Product Manager Intern @ Daus](#daus)
-- [🚀 Projects](#projects)
-- [📊 GitHub Analytics](#github-analytics)
-- [🔖 Tags](#tags)
+- [Projects](#projects)
+- [GitHub Analytics](#github-analytics)
+- [Tags](#tags)
 
 ---
 
 <a id="about-me"></a>
-### 👨‍💻 About Me
+### About Me
 
 <a id="who-everson-filipe-is"></a>
 #### Who Éverson Filipe is
@@ -71,7 +71,7 @@ Beyond technical delivery, I was nominated for Kartado's Agility Award for resol
 ---
 
 <a id="professional-trajectory"></a>
-# 💼 Professional Trajectory
+# Professional Trajectory
 
 <a id="kartado"></a>
 * **Technical Implementation Intern** @ Kartado <br>
@@ -120,7 +120,7 @@ Beyond technical delivery, I was nominated for Kartado's Agility Award for resol
 ---
 
 <a id="projects"></a>
-# 🚀 Projects
+# Projects
 
 > 🚧
 
@@ -155,7 +155,7 @@ Substitua os campos entre [colchetes] pelas informações reais do projeto.
 ---
 
 <a id="github-analytics"></a>
-### 📊 GitHub Analytics
+### GitHub Analytics
 
 <div align="center">
 
@@ -172,7 +172,7 @@ Substitua os campos entre [colchetes] pelas informações reais do projeto.
 <a id="tags"></a>
 <div align="left">
 
-### 🔖 Tags
+### Tags
 ```
 Technical Implementation Specialist, Systems Analyst, Implementation Engineer, Product Operations, Data Engineering, Product Ops, SQL Optimization, RESTful APIs, Python Developer, Django Admin, JSONLogic, Systems Integration, API Integration, Technical Onboarding, Software Implementation, Systems Parametrization, Data Manipulation, PostgreSQL, MongoDB, NoSQL, Technical Troubleshooting, Functional Testing, Technical Documentation, Software Lifecycle, Agile Methodologies, SCRUM, Kanban, Lean Thinking, Product Discovery, Stakeholder Management, Requirements Engineering, Product Roadmap, MVP Development, Decision Intelligence, Strategic Alignment, Data-Driven Strategy, Operational Excellence, Data Governance, ETL Processes, Data Pipelines, API Design, Postman, Jira, Confluence, ClickUp, Trello, FigJam, Miro, AWS EC2, Cloud Infrastructure, Bash Scripting, Linux, Version Control, Git, VS Code, Software Architecture, Technical Writing, Process Mapping, Scalable Infrastructure, Business Analysis, Product Requirements Document, PRD, User Stories, Backlog Refinement, Sprint Planning, Software Development Life Cycle, SDLC, UAT, User Acceptance Testing, Level 2 Technical Support, SaaS Strategy, B2B SaaS, B2C SaaS, GovTech, AI-powered MVP, Generative AI, Decision Support Systems, Analytics Engineering, Data Analysis, Information Architecture, Aspire Leaders Fellow, Global Leadership, Harvard Business School affiliate, Mentorship, Team Onboarding, Cross-functional Leadership, Remote Collaboration, Social Impact Projects, Technical Project Management, Agile Transformation, Change Management, Process Automation, Digital Transformation, Workflow Optimization, Data Integrity, Logical Validation, Scripting, Backend Development, Web Services, JWT, REST API Documentation, Spreadsheet Modeling, Advanced Excel, Business Intelligence, BI, Customer Engagement, Problem Solving, Process Controls, Decision Intelligence Specialist, Data Product Management, Product Strategy, Software Deployment, Solutions Engineer, Associate Product Manager, Technical Success Engineer, Customer Onboarding Specialist, Integration Engineer, Systems Engineer, Technical Analyst, Database Administration, Schema Design, Performance Tuning, API Testing, Automated Testing, Product Governance, Resource Management, KPI Tracking, Performance Metrics, National Infrastructure, Technical Lead, Professional Services Consultant, Systems Deployment, Deployment Automation, Middleware, Technical Consultant, Product Lifecycle, Lean Product Development, User Flow Documentation, Knowledge Base Management, Technical Curriculum Design, Project Tracking, Agile Workflows, Technical Support Engineer, Solution Delivery, Enterprise Software, Cloud Computing, Database Management, Query Optimization, Data Validation, Technical Traceability, Infrastructure Management, Technical Readiness, Product Operations Analyst, Data Operations, Business Operations, Operational Agility, Technical Strategy, Solution Architecture, Software Engineering, Python Scripting, Django Framework, RESTful Services, Web Development, Full Stack Development, Technical Problem Solving, Root Cause Analysis, Documentation Specialist, Agile Coach, Product Owner, Project Coordination, Technical Liaison, Strategic Leadership, Technical Excellence, Data Quality, Master Data Management, Technical Auditing, Change Control, Systems Monitoring, Product Discovery Specialist, User-Centered Design, Agile Delivery, Continuous Improvement, Innovation Management, Tech Stack Optimization, Resource Optimization, Implementation Analyst, Data Science Fundamentals, Machine Learning, AI Strategy, Technical Brand Management, Growth Hacking, Stakeholder Engagement, Cross-functional Communication, Professional Services, Implementation Methodology, Technical Maturity, Scalable Solutions, Emerging Technologies, Data Engineering Associate, Product Ops Specialist, Agile Operations, Tech Stack Alignment, Infrastructure as Code, API Management, Technical Product Management, BPMN, Workflow Design, Systems Analysis, ITIL, CI/CD, N2 Support, XML, Webhook, XML, System Configuration via JSONLogic, XML and Python, Customer Experience (CX), Squad Mentorship, Project Delivery for Tier-1 Clients.
 ```
