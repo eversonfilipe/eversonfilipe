@@ -50,8 +50,8 @@
 
 **Professional Experience**
 - [Professional Trajectory](#professional-trajectory)
-  - [Technical Implementation Intern @ Kartado](#kartado)
-  - [Agile Product Manager Intern @ Daus](#daus)
+  - [Technical Implementation Intern @ Kartado](#kartado) | <i>09/2025-In Progress</i>
+  - [Agile Product Manager Intern @ Daus](#daus) | <i>12/2024-06/2025</i>
 
 **Portfolio**
 - [Projects](#projects)
@@ -68,10 +68,10 @@
 
 **Community & Impact**
 - [Volunteering](#volunteering)
-  - [Co-Organizer @ GDG Barueri \[08/2025-Today\]](#co-organizer-gdgbarueri)
-  - [Ambassador & Facilitator @ Politize! \[05/2025-Today\]](#ambassador-facilitator-politize!)
-  - [OGT & Marketing Comittee @ AIESEC no Mackenzie \[03/2025-08/2025\]](#aiesecmackenzie-volunteer)
-  - [Soft Skills Instructor @ Vai Na Web \[01/2025\]](#vainaweb-volunteering)
+  - [Co-Organizer @ GDG Barueri](#co-organizer-gdgbarueri) | <i>08/2025-In Progress</i>
+  - [Ambassador & Facilitator @ Politize!](#ambassador-facilitator-politize!) | <i>05/2025-In Progress</i>
+  - [OGT & Marketing Comittee @ AIESEC no Mackenzie](#aiesecmackenzie-volunteer) | <i>03/2025-08/2025</i>
+  - [Soft Skills Instructor @ Vai Na Web](#vainaweb-volunteering) | <i>01/2025</i>
 
 **Repository Overview**
 - [GitHub Analytics](#github-analytics)
@@ -113,7 +113,7 @@ Beyond technical delivery, I was nominated for Kartado's Agility Award for resol
 # Professional Trajectory
 
 <a id="kartado"></a>
-* **Technical Implementation Intern** @ Kartado <br>
+* **Technical Implementation Intern** @ Kartado | <i>09/2025-In Progress</i><br>
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"><img src="https://img.shields.io/badge/json%20web%20tokens-323330?style=for-the-badge&logo=json-web-tokens&logoColor=pink" alt="JWT/JSON geral"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"><img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django Admin"><img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS"><img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" /><img src="https://img.shields.io/badge/Microsoft_SharePoint-0078D4?style=for-the-badge&logo=microsoft-sharepoint&logoColor=white" /><br>
 
 ````
@@ -138,7 +138,7 @@ Beyond technical delivery, I was nominated for Kartado's Agility Award for resol
 ---
 
 <a id="daus"></a>
-* **Agile Product Manager Intern** @ Daus <br>
+* **Agile Product Manager Intern** @ Daus | <i>12/2024-06/2025</i><br>
 <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white" alt="Jira"><img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"><img src="https://img.shields.io/badge/Miro-050038?style=for-the-badge&logo=Miro&logoColor=white" alt="Miro"><img src="https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white" alt="Confluence"> <br>
 
 ````
@@ -197,11 +197,11 @@ IMPORTANTE: defina um [slug-do-projeto] único (ex: "antigravity-odisseia-estela
 
 <a id="graduacao-ciencia-computacao-unifavipwyden"></a>
 * **Computer Science** @ UniFavip Wyden (Bachelor's Degree) <br>
-  * *02/2024 - Today*
+  * *<i>02/2024 -In Progress</i>*
 
 <a id="mentoria-labai-institutojoule-ia2025"></a>
 * **LAB.AI** @ Instituto Joule (Mentorship Program) <br>
-  * *08/2025 - 09/2025*
+  * *<i>08/2025 - 09/2025</i>*
 
 <!--
 TEMPLATE: duplique o bloco abaixo para cada nova formação (graduação, pós-graduação, especialização, etc.).
@@ -268,16 +268,16 @@ IMPORTANTE: defina um [slug-da-certificacao] único (ex: "aws-certified-cloud-pr
 # Volunteering
 
 <a id="co-organizer-gdgbarueri"></a>
-* **Co-organizer** @ Google Developers Group (GDG Barueri) [08/2025-Today]
+* **Co-organizer** @ Google Developers Group (GDG Barueri) | <i>08/2025-In Progress</i>
 
 <a id="ambassador-facilitator-politize!"></a>
-* **Ambassador & Facilitator** @ Politize! (Politize! Caruaru) [05/2025-Today]
+* **Ambassador & Facilitator** @ Politize! (Politize! Caruaru) | <i>05/2025-In Progress</i>
 
 <a id="aiesecmackenzie-volunteer"></a>
-* **OGT & Marketing Comittee Member** @ AIESEC (AIESEC no Mackenzie) [03/2025-08/2025]
+* **OGT & Marketing Comittee Member** @ AIESEC (AIESEC no Mackenzie) | <i>03/2025-08/2025</i>
 
 <a id="vainaweb-volunteering"></a>
-* **Soft Skills Instructor** @ Vai Na Web [01/2025]
+* **Soft Skills Instructor** @ Vai Na Web | <i>01/2025</i>
 
 <!--
 TEMPLATE: duplique a linha abaixo para cada novo voluntariado.
