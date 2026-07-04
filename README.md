@@ -69,6 +69,7 @@
 **Community & Impact**
 - [Volunteering](#volunteering)
   - [Co-Organizer @ GDG Barueri \[08/2025-Today\]](#co-organizer-gdgbarueri)
+  - [Ambassador & Facilitator @ Politize! \[05/2025-Today\]](#ambassador-facilitator-politize!)
   - [OGT & Marketing Comittee @ AIESEC no Mackenzie \[03/2025-08/2025\]](#aiesecmackenzie-volunteer)
   - [Soft Skills Instructor @ Vai Na Web \[01/2025\]](#vainaweb-volunteering)
 
@@ -268,6 +269,9 @@ IMPORTANTE: defina um [slug-da-certificacao] único (ex: "aws-certified-cloud-pr
 
 <a id="co-organizer-gdgbarueri"></a>
 * **Co-organizer** @ Google Developers Group (GDG Barueri) [08/2025-Today]
+
+<a id="ambassador-facilitator-politize!"></a>
+* **Ambassador & Facilitator** @ Politize! (Politize! Caruaru) [05/2025-Today]
 
 <a id="aiesecmackenzie-volunteer"></a>
 * **OGT & Marketing Comittee Member** @ AIESEC (AIESEC no Mackenzie) [03/2025-08/2025]
