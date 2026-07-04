@@ -35,6 +35,13 @@
   - [Technical Implementation Intern @ Kartado](#kartado)
   - [Agile Product Manager Intern @ Daus](#daus)
 - [Projects](#projects)
+  <!-- Ao adicionar um novo projeto na seção Projects, descomente e ajuste a linha abaixo (uma para cada projeto), usando o mesmo slug definido na âncora <a id="..."> do projeto -->
+  <!-- - [Nome do Projeto](#slug-do-projeto) -->
+- [Volunteering](#volunteering)
+  <!-- Ao adicionar um novo voluntariado na seção Volunteering, descomente e ajuste a linha abaixo (uma para cada voluntariado), usando o mesmo slug definido na âncora <a id="..."> do item -->
+  - [Co-Organizer @ GDG Barueri [08/2025-Today]](#co-organizer-gdgbarueri)
+  - [OGT & Marketing Comittee @ AIESEC no Mackenzie [03/2025-08/2025]](#aiesecmackenzie-volunteer)
+  - [Soft Skills Instructor @ Vai Na Web [01/2025]](#vainaweb-volunteering)
 - [GitHub Analytics](#github-analytics)
 - [Tags](#tags)
 
@@ -122,9 +129,13 @@ Beyond technical delivery, I was nominated for Kartado's Agility Award for resol
 <!--
 TEMPLATE — duplique o bloco abaixo para cada novo projeto.
 Substitua os campos entre [colchetes] pelas informações reais do projeto.
+IMPORTANTE: defina um [slug-do-projeto] único (ex: "antigravity-odisseia-estelar") e use o MESMO slug:
+  1) na âncora <a id="[slug-do-projeto]"></a> logo abaixo;
+  2) na linha correspondente do Sumário (seção Projects), para o redirecionamento automático funcionar.
 -->
 
 <!--
+<a id="[slug-do-projeto]"></a>
 <details>
 <summary><b>[Nome do Projeto]</b></summary>
 <br>
@@ -145,6 +156,33 @@ Substitua os campos entre [colchetes] pelas informações reais do projeto.
 </p>
 
 </details>
+-->
+
+---
+
+<a id="volunteering"></a>
+# Volunteering
+
+<a id="co-organizer-gdgbarueri"></a>
+* **Co-organizer** @ Google Developers Group (GDG Barueri) [08/2025-Today]
+
+<a id="aiesecmackenzie-volunteer"></a>
+* **OGT & Marketing Comittee Member** @ AIESEC (AIESEC no Mackenzie) [03/2025-08/2025]
+
+<a id="vainaweb-volunteering"></a>
+* **Soft Skills Instructor** @ Vai Na Web [01/2025]
+
+<!--
+TEMPLATE — duplique a linha abaixo para cada novo voluntariado.
+Substitua os campos entre [colchetes] pelas informações reais.
+IMPORTANTE: defina um [slug-do-voluntariado] único (ex: "aiesec-alas") e use o MESMO slug:
+  1) na âncora <a id="[slug-do-voluntariado]"></a> logo antes do item;
+  2) na linha correspondente do Sumário (seção Volunteering), para o redirecionamento automático funcionar.
+-->
+
+<!--
+<a id="[slug-do-voluntariado]"></a>
+* **[Nome do Voluntariado]** — [Organização] ([Período])
 -->
 
 ---
