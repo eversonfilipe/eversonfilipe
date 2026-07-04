@@ -27,21 +27,40 @@
 <a id="sumario"></a>
 ## Summary
 
+> **English:** This index links directly to every section and entry below. Visit "Profile" to learn more about me, check "Professional Experience" to see how I approach problems, explore "Portfolio" to see what I am building, read "Academic Background" to follow my education, courses, and certifications, go to "Community & Impact" to see my volunteering contributions to society and technology, and get a quick overview of this profile in "Repository Overview".
+>
+> **Portuguese:** Este índice leva diretamente a cada seção e item abaixo. Visite "Profile" para me conhecer melhor, acesse "Professional Experience" para entender como lido com desafios, veja "Portfolio" para conhecer o que estou construindo, leia "Academic Background" para acompanhar minha formação, cursos e certificações, vá até "Community & Impact" para ver minhas contribuições voluntárias para a sociedade e a tecnologia, e obtenha uma visão geral deste perfil em "Repository Overview".
+
+**Profile**
 - [About Me](#about-me)
   - [Who Éverson Filipe is](#who-everson-filipe-is)
-  - [My standards are](#my-standards-are)
+  - [My Standards Are](#my-standards-are)
   - [My Results and Metrics](#my-results-and-metrics)
+
+**Professional Experience**
 - [Professional Trajectory](#professional-trajectory)
   - [Technical Implementation Intern @ Kartado](#kartado)
   - [Agile Product Manager Intern @ Daus](#daus)
+
+**Portfolio**
 - [Projects](#projects)
-  <!-- Ao adicionar um novo projeto na seção Projects, descomente e ajuste a linha abaixo (uma para cada projeto), usando o mesmo slug definido na âncora <a id="..."> do projeto -->
   <!-- - [Nome do Projeto](#slug-do-projeto) -->
+
+**Academic Background**
+- [Education](#education)
+  <!-- - [Nome da Formação](#slug-da-formacao) -->
+- [Courses](#courses)
+  <!-- - [Nome do Curso](#slug-do-curso) -->
+- [Certifications](#certifications)
+  <!-- - [Nome da Certificação](#slug-da-certificacao) -->
+
+**Community & Impact**
 - [Volunteering](#volunteering)
-  <!-- Ao adicionar um novo voluntariado na seção Volunteering, descomente e ajuste a linha abaixo (uma para cada voluntariado), usando o mesmo slug definido na âncora <a id="..."> do item -->
-  - [Co-Organizer @ GDG Barueri [08/2025-Today]](#co-organizer-gdgbarueri)
-  - [OGT & Marketing Comittee @ AIESEC no Mackenzie [03/2025-08/2025]](#aiesecmackenzie-volunteer)
-  - [Soft Skills Instructor @ Vai Na Web [01/2025]](#vainaweb-volunteering)
+  - [Co-Organizer @ GDG Barueri \[08/2025-Today\]](#co-organizer-gdgbarueri)
+  - [OGT & Marketing Comittee @ AIESEC no Mackenzie \[03/2025-08/2025\]](#aiesecmackenzie-volunteer)
+  - [Soft Skills Instructor @ Vai Na Web \[01/2025\]](#vainaweb-volunteering)
+
+**Repository Overview**
 - [GitHub Analytics](#github-analytics)
 - [Tags](#tags)
 
@@ -124,10 +143,10 @@ Beyond technical delivery, I was nominated for Kartado's Agility Award for resol
 <a id="projects"></a>
 # Projects
 
-> 🚧
+*Under construction.*
 
 <!--
-TEMPLATE — duplique o bloco abaixo para cada novo projeto.
+TEMPLATE: duplique o bloco abaixo para cada novo projeto.
 Substitua os campos entre [colchetes] pelas informações reais do projeto.
 IMPORTANTE: defina um [slug-do-projeto] único (ex: "antigravity-odisseia-estelar") e use o MESMO slug:
   1) na âncora <a id="[slug-do-projeto]"></a> logo abaixo;
@@ -140,13 +159,13 @@ IMPORTANTE: defina um [slug-do-projeto] único (ex: "antigravity-odisseia-estela
 <summary><b>[Nome do Projeto]</b></summary>
 <br>
 
-**Descrição:** [Breve descrição do projeto — problema que resolve, contexto e principais funcionalidades]
+**Descrição:** [Breve descrição do projeto, incluindo o problema que resolve, o contexto e as principais funcionalidades]
 
 **Stack:** <img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=&logoColor=white" alt="[Tecnologia]">
 
 **Links:**
-- 🔗 Repositório: [URL do repositório]
-- 🌐 Demo: [URL da demonstração ao vivo]
+- Repositório: [URL do repositório]
+- Demo: [URL da demonstração ao vivo]
 
 **Carrossel de Imagens:**
 <p align="center">
@@ -156,6 +175,72 @@ IMPORTANTE: defina um [slug-do-projeto] único (ex: "antigravity-odisseia-estela
 </p>
 
 </details>
+-->
+
+---
+
+<a id="education"></a>
+# Education
+
+*Under construction.*
+
+<!--
+TEMPLATE: duplique o bloco abaixo para cada nova formação (graduação, pós-graduação, especialização, etc.).
+Substitua os campos entre [colchetes] pelas informações reais.
+IMPORTANTE: defina um [slug-da-formacao] único (ex: "cs-bacharelado-caruaru") e use o MESMO slug:
+  1) na âncora <a id="[slug-da-formacao]"></a> logo abaixo;
+  2) na linha correspondente do Sumário (seção Education), para o redirecionamento automático funcionar.
+-->
+
+<!--
+<a id="[slug-da-formacao]"></a>
+* **[Nome do Curso ou Título da Formação]** @ [Nome da Instituição] ([Tipo de Formação: Graduação / Pós-graduação / Especialização / Técnico]) <br>
+  * *[Data de Início] - [Data de Conclusão / Present]*
+
+````
+    * [Conquista, feito ou pontuação 1: exemplo, CRA/GPA, monitoria, premiação, projeto de destaque]
+    * [Conquista, feito ou pontuação 2]
+````
+-->
+
+---
+
+<a id="courses"></a>
+# Courses
+
+*Under construction.*
+
+<!--
+TEMPLATE: duplique a linha abaixo para cada novo curso.
+Substitua os campos entre [colchetes] pelas informações reais.
+IMPORTANTE: defina um [slug-do-curso] único (ex: "aws-cloud-practitioner-course") e use o MESMO slug:
+  1) na âncora <a id="[slug-do-curso]"></a> logo antes do item;
+  2) na linha correspondente do Sumário (seção Courses), para o redirecionamento automático funcionar.
+-->
+
+<!--
+<a id="[slug-do-curso]"></a>
+* **[Nome do Curso]** @ [Instituição/Plataforma] ([Data / Carga horária])
+-->
+
+---
+
+<a id="certifications"></a>
+# Certifications
+
+*Under construction.*
+
+<!--
+TEMPLATE: duplique a linha abaixo para cada nova certificação.
+Substitua os campos entre [colchetes] pelas informações reais.
+IMPORTANTE: defina um [slug-da-certificacao] único (ex: "aws-certified-cloud-practitioner") e use o MESMO slug:
+  1) na âncora <a id="[slug-da-certificacao]"></a> logo antes do item;
+  2) na linha correspondente do Sumário (seção Certifications), para o redirecionamento automático funcionar.
+-->
+
+<!--
+<a id="[slug-da-certificacao]"></a>
+* **[Nome da Certificação]** @ [Instituição/Emissor] ([Data de Emissão / Validade])
 -->
 
 ---
@@ -173,7 +258,7 @@ IMPORTANTE: defina um [slug-do-projeto] único (ex: "antigravity-odisseia-estela
 * **Soft Skills Instructor** @ Vai Na Web [01/2025]
 
 <!--
-TEMPLATE — duplique a linha abaixo para cada novo voluntariado.
+TEMPLATE: duplique a linha abaixo para cada novo voluntariado.
 Substitua os campos entre [colchetes] pelas informações reais.
 IMPORTANTE: defina um [slug-do-voluntariado] único (ex: "aiesec-alas") e use o MESMO slug:
   1) na âncora <a id="[slug-do-voluntariado]"></a> logo antes do item;
@@ -182,7 +267,7 @@ IMPORTANTE: defina um [slug-do-voluntariado] único (ex: "aiesec-alas") e use o 
 
 <!--
 <a id="[slug-do-voluntariado]"></a>
-* **[Nome do Voluntariado]** — [Organização] ([Período])
+* **[Nome do Voluntariado]** @ [Organização] ([Período])
 -->
 
 ---
