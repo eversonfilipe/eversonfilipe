@@ -48,7 +48,8 @@
 
 **Academic Background**
 - [Education](#education)
-  <!-- - [Nome da Formação](#slug-da-formacao) -->
+  - [Bachelor's Degree in Computer Science](#graduacao-ciencia-computacao-unifavipwyden)
+  - [Mentorship Program in Artificial Intelligence](#mentoria-labai-institutojoule-ia2025)
 - [Courses](#courses)
   <!-- - [Nome do Curso](#slug-do-curso) -->
 - [Certifications](#certifications)
@@ -182,7 +183,13 @@ IMPORTANTE: defina um [slug-do-projeto] único (ex: "antigravity-odisseia-estela
 <a id="education"></a>
 # Education
 
-*Under construction.*
+<a id="graduacao-ciencia-computacao-unifavipwyden"></a>
+* **Computer Science** @ UniFavip Wyden (Bachelor's Degree) <br>
+  * *02/2024 - Today*
+
+<a id="mentoria-labai-institutojoule-ia2025"></a>
+* **LAB.AI** @ Instituto Joule (Mentorship Program) <br>
+  * *08/2025 - 09/2025*
 
 <!--
 TEMPLATE: duplique o bloco abaixo para cada nova formação (graduação, pós-graduação, especialização, etc.).
