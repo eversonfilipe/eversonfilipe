@@ -27,10 +27,6 @@
 <a id="sumario"></a>
 ## Summary
 
-> **English:** This index links directly to every section and entry below. Visit "Profile" to learn more about me, check "Professional Experience" to see how I approach problems, explore "Portfolio" to see what I am building, read "Academic Background" to follow my education, courses, and certifications, go to "Community & Impact" to see my volunteering contributions to society and technology, and get a quick overview of this profile in "Repository Overview".
->
-> **Portuguese:** Este índice leva diretamente a cada seção e item abaixo. Visite "Profile" para me conhecer melhor, acesse "Professional Experience" para entender como lido com desafios, veja "Portfolio" para conhecer o que estou construindo, leia "Academic Background" para acompanhar minha formação, cursos e certificações, vá até "Community & Impact" para ver minhas contribuições voluntárias para a sociedade e a tecnologia, e obtenha uma visão geral deste perfil em "Repository Overview".
-
 **Profile**
 - [About Me](#about-me)
   - [Who Éverson Filipe is](#who-everson-filipe-is)
