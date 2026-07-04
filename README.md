@@ -24,6 +24,21 @@
 
 ---
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter Notebook">
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django">
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/AWS_IAM-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS IAM">
+  <img src="https://img.shields.io/badge/Amazon_EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white" alt="Amazon EC2">
+  <img src="https://img.shields.io/badge/Amazon_ECS-FF9900?style=for-the-badge&logo=amazonecs&logoColor=white" alt="Amazon ECS (Docker)">
+  <img src="https://img.shields.io/badge/AWS_Step_Functions-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS Step Functions">
+  <img src="https://img.shields.io/badge/Amazon_Athena-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="Amazon Athena">
+</p>
+
+---
+
 <a id="sumario"></a>
 ## Summary
 
