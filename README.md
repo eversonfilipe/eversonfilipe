@@ -77,7 +77,16 @@
   - [OGT & Marketing Comittee @ AIESEC no Mackenzie](#aiesecmackenzie-volunteer) | <i>03/2025-08/2025</i>
   - [Soft Skills Instructor @ Vai Na Web](#vainaweb-volunteering) | <i>01/2025</i>
 - [Hackathons](#hackathons)
-  <!-- - [Nome do Hackathon](#slug-do-hackathon) | <i>[Data]</i> -->
+  - [Hackathon HAVK – Hacking the Desert](#hackathon-havk-hacking-the-desert) | <i>07/2025</i>
+  - [VOX ASTRA Hackathon](#vox-astra-hackathon) | <i>05/2025</i>
+  - [2025 Hackatopia Hackathon](#2025-hackatopia-hackathon) | <i>04/2025</i>
+  - [Hackathon Fenearte](#hackathon-fenearte) | <i>02/2025</i>
+  - [Ideathon AC](#ideathon-ac) | <i>02/2025</i>
+  - [Hackathon Impulso Regional](#hackathon-impulso-regional) | <i>12/2024</i>
+  - [Hackathon Luminahub](#hackathon-luminahub) | <i>12/2024</i>
+  - [Hackathon Data Flow](#hackathon-dataflow) | <i>08/2024</i>
+  - [Ideathon - Caruaru Campus Party Day](#ideathon-caruaru-campusparty-day) | <i>08/2024</i>
+  - [Olímpiadas Jovens de Impacto](#olimpiadas-jovens-impacto) | <i>11/2021</i>
 - [Events](#events)
   <!-- - [Nome do Evento](#slug-do-evento) | <i>[Data]</i> -->
 
@@ -318,8 +327,6 @@ IMPORTANTE: defina um [slug-do-voluntariado] único (ex: "aiesec-alas") e use o 
 <a id="hackathons"></a>
 # Hackathons
 
-*Under construction.*
-
 <!--
 TEMPLATE: duplique a linha abaixo para cada novo hackathon.
 Substitua os campos entre [colchetes] pelas informações reais.
@@ -327,12 +334,38 @@ IMPORTANTE: defina um [slug-do-hackathon] único (ex: "hackathon-govtech-recife-
   1) na âncora <a id="[slug-do-hackathon]"></a> logo antes do item;
   2) na linha correspondente do Sumário (seção Hackathons), para o redirecionamento automático funcionar.
 -->
+<a id="hackathon-havk-hacking-the-desert"></a>
+* **Hackathon HAVK – Hacking the Desert** @ HAVK  | <i>07/2025</i>
 
-<!--
-<a id="[slug-do-hackathon]"></a>
-* **[Nome do Hackathon]** @ [Organização/Promotor] ([Tipo: Hackathon / Datathon / Maratona de Programação]) | <i>[Data]</i>
--->
+<a id="vox-astra-hackathon"></a>
+* **VOX ASTRA Hackathon** @ EQ Hacks  | <i>05/2025</i>
 
+<a id="2025-hackatopia-hackathon"></a>
+* **2025 Hackatopia Hackathon** @ YPStem | <i>04/2025</i>
+
+<a id="hackathon-fenearte"></a>
+* **Hackathon Fenearte** @ Porto Digital | <i>02/2025</i>
+
+<a id="ideathon-ac"></a>
+* **Ideathon AC** @ Porto Digital | <i>02/2025</i>
+
+<a id="hackathon-impulso-regional"></a>
+* **Hackathon Impulso Regional** @ ENAP | <i>12/2024</i>
+
+<a id="hackathon-luminahub"></a>
+* **Hackathon Luminahub** @ Luminahub | <i>12/2024</i>
+
+<a id="hackathon-dataflow"></a>
+* **Hackathon Data Flow** @ Porto Digital | <i>08/2024</i>
+
+<a id="hackathon-dataflow"></a>
+* **Hackathon Data Flow** @ Porto Digital | <i>08/2024</i>
+
+<a id="ideathon-caruaru-campusparty-day"></a>
+* **Ideathon - Caruaru Campus Party Day** @ Porto Digital | <i>08/2024</i>
+
+<a id="olimpiadas-jovens-impacto"></a>
+* **Olímpiadas Jovens de Impacto** @ SEBRAE & Instituto Verda | <i>11/2021</i>
 ---
 
 <a id="events"></a>
