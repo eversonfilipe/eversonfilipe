@@ -51,7 +51,7 @@
 **Professional Experience**
 - [Professional Trajectory](#professional-trajectory)
   - [Technical Implementation Intern @ Kartado](#kartado) | <i>09/2025-In Progress</i>
-  - [Agile Product Manager Intern @ Daus](#daus) | <i>12/2024-06/2025</i>
+  - [Agile Product Manager Learner @ Daus](#daus) | <i>12/2024-06/2025</i>
 
 **Portfolio**
 - [Projects](#projects)
@@ -142,7 +142,7 @@ Beyond technical delivery, I was nominated for Kartado's Agility Award for resol
 ---
 
 <a id="daus"></a>
-* **Agile Product Manager Intern** @ Daus | <i>12/2024-06/2025</i><br>
+* **Agile Product Manager Learner** @ Daus | <i>12/2024-06/2025</i><br>
 <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white" alt="Jira"><img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"><img src="https://img.shields.io/badge/Miro-050038?style=for-the-badge&logo=Miro&logoColor=white" alt="Miro"><img src="https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white" alt="Confluence"> <br>
 
 ````
