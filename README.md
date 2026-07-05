@@ -358,9 +358,6 @@ IMPORTANTE: defina um [slug-do-hackathon] único (ex: "hackathon-govtech-recife-
 <a id="hackathon-dataflow"></a>
 * **Hackathon Data Flow** @ Porto Digital | <i>08/2024</i>
 
-<a id="hackathon-dataflow"></a>
-* **Hackathon Data Flow** @ Porto Digital | <i>08/2024</i>
-
 <a id="ideathon-caruaru-campusparty-day"></a>
 * **Ideathon - Caruaru Campus Party Day** @ Porto Digital | <i>08/2024</i>
 
