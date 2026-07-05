@@ -88,6 +88,14 @@
   - [Ideathon - Caruaru Campus Party Day](#ideathon-caruaru-campusparty-day) | <i>08/2024</i>
   - [Olímpiadas Jovens de Impacto](#olimpiadas-jovens-impacto) | <i>11/2021</i>
 - [Events](#events)
+  - [FLISoL 2026](#flisol-palmares-2026) | ROLE: SPEAKER | <i>04/2026</i>
+  - [ExpoTech 2025.2](#expotech-2025-2) | ROLE: EXHIBITOR | <i>12/2025</i>
+  - [Festival Agile Trends 2025](#festival-agile-trends-2025) | ROLE: LISTENER | <i>11/2025</i>
+  - [ExpoTech 2025.1](#expotech-2025-1) | ROLE: EXHIBITOR | <i>06/2025</i>
+  - [BRICS Youth](#brics-youth-2025) | ROLE: LISTENER | <i>05/2025</i>
+  - [As Tendências Para as Novas Gerações de Profissionais @ Recife Front-End Community](#as-tendencias-para-novasgeracoes-2025-1) | ROLE: SPEAKER | <i>02/2025</i>
+  - [ExpoTech 2024.2](#expotech-2024-2) | ROLE: EXHIBITOR | <i>11/2024</i>
+  - [Campus Party NE 2024](#campus-party-nordeste-2024) | ROLE: LISTENER | <i>9/2024</i>
   <!-- - [Nome do Evento](#slug-do-evento) | <i>[Data]</i> -->
 
 **Repository Overview**
@@ -368,7 +376,29 @@ IMPORTANTE: defina um [slug-do-hackathon] único (ex: "hackathon-govtech-recife-
 <a id="events"></a>
 # Events
 
-*Under construction.*
+<a id="flisol-palmares-2026"></a>
+* **FLISoL 2026** @ IFPE/Palmares (Festival) | ROLE: SPEAKER | <i>04/2026</i>
+
+<a id="expotech-2025-2"></a>
+* **ExpoTech 2025.2** @ UniFavip Wyden/Auditorium (Fair/Exhibition) | ROLE: EXHIBITOR | <i>12/2025</i>
+
+<a id="festival-agile-trends-2025"></a>
+* **Festival Agile Trends 2025** @  Agile Trends/Remote (Festival) | ROLE: LISTENER | <i>11/2025</i>
+
+<a id="expotech-2025-1"></a>
+* **ExpoTech 2025.1** @ UniFavip Wyden/Auditorium (Fair/Exhibition) | ROLE: EXHIBITOR | <i>06/2025</i>
+
+<a id="brics-youth-2025"></a>
+* **BRICS Youth** @ BRICS/Remote (Summit/Forum) | ROLE: LISTENER | <i>05/2025</i>
+
+<a id="as-tendencias-para-novasgeracoes-2025-1"></a>
+* **As Tendências Para as Novas Gerações de Profissionais** @ Recife Front-End Community/Remote (Talk/Meetup) | ROLE: SPEAKER | <i>02/2025</i>
+
+<a id="expotech-2024-2"></a>
+* **ExpoTech 2024.2** @ UniFavip Wyden/Auditorium (Fair/Exhibition) | ROLE: EXHIBITOR | <i>11/2024</i>
+
+<a id="campus-party-nordeste-2024"></a>
+* **Campus Party NE 2024** @ Campus Party/São Lourenço da Mata (Conference) | ROLE: LISTENER | <i>9/2024</i>
 
 <!--
 TEMPLATE: duplique a linha abaixo para cada novo evento.
