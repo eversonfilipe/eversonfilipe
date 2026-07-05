@@ -9,6 +9,7 @@
     <b>Bridging the gap between business requirements and scalable software execution through rigorous data validation and process automation.</b>
   </p>
 
+  <h1>Socials</h1>
   <p align="center">
     <a href="https://www.linkedin.com/in/eversonfilipe-agile-products-ai/">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -23,21 +24,22 @@
 </div>
 
 ---
+<div align="center">
+  <h1>Tech Stack</h1>
+  <p>
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+    <img src="https://img.shields.io/badge/openpyxl-217346?style=for-the-badge&logo=python&logoColor=white" alt="openpyxl">
+    <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django">
+    <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter Notebook">
+  </p>
+  <p>
+    <img src="https://img.shields.io/badge/Amazon_S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white" alt="Amazon S3">
+    <img src="https://img.shields.io/badge/AWS_IAM-DD344C?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS IAM">
+    <img src="https://img.shields.io/badge/AWS_Step_Functions-D9A741?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS Step Functions">
+    <img src="https://img.shields.io/badge/Amazon_Athena-8C4FFF?style=for-the-badge&logo=amazonaws&logoColor=white" alt="Amazon Athena">
+  </p>
+</div>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/openpyxl-217346?style=for-the-badge&logo=python&logoColor=white" alt="openpyxl">
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django">
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter Notebook">
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Amazon_S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white" alt="Amazon S3">
-  <img src="https://img.shields.io/badge/AWS_IAM-DD344C?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS IAM">
-  <img src="https://img.shields.io/badge/AWS_Step_Functions-D9A741?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS Step Functions">
-  <img src="https://img.shields.io/badge/Amazon_Athena-8C4FFF?style=for-the-badge&logo=amazonaws&logoColor=white" alt="Amazon Athena">
-</p>
-
----
 
 <a id="sumario"></a>
 ## Summary
