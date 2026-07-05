@@ -102,7 +102,7 @@
   
 **Achievements & Recognition**
 - [Achievements & Recognition](#achievements-recognition)
-  - [Nomination for Kartado Monthly Agility Award @ Kartado](#award-kartado-agility-2026) | <i>04/2026</i>
+  - [Nomination for Kartado Monthly Agility Award](#award-kartado-agility-2026) | <i>04/2026</i>
   - [Accepted Mentee in Aspire Leaders 2025.2 Cohort 5](#accepted-mentee-alp-2025-2) | <i>10/2025</i>
   
 **Repository Overview**
