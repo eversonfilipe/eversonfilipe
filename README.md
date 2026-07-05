@@ -99,7 +99,12 @@
   - [ExpoTech 2024.2](#expotech-2024-2) | ROLE: EXHIBITOR | <i>11/2024</i>
   - [Campus Party NE 2024](#campus-party-nordeste-2024) | ROLE: LISTENER | <i>9/2024</i>
   <!-- - [Nome do Evento](#slug-do-evento) | <i>[Data]</i> -->
-
+  
+**Achievements & Recognition**
+- [Achievements & Recognition](#achievements-recognition)
+  - [Nomination for Kartado Monthly Agility Award @ Kartado](#award-kartado-agility-2026) | <i>04/2026</i>
+  - [Accepted Mentee in Aspire Leaders 2025.2 Cohort 5](#accepted-mentee-alp-2025-2) | <i>10/2025</i>
+  
 **Repository Overview**
 - [GitHub Analytics](#github-analytics)
 - [Tags](#tags)
@@ -415,6 +420,32 @@ IMPORTANTE: defina um [slug-do-evento] único (ex: "google-io-extended-2025") e 
 * **[Nome do Evento]** @ [Organização/Local] ([Tipo: Conferência / Meetup / Workshop / Palestra]) | <i>[Data]</i>
 -->
 
+---
+
+---
+
+<a id="achievements-recognition"></a>
+# Achievements & Recognition
+
+<a id="award-kartado-agility-2026"></a>
+* **Nomination for Kartado Monthly Agility Award** @ Kartado | <i>04/2026</i>
+
+<a id="accepted-mentee-alp-2025-2"></a>
+* **Accepted Mentee in Aspire Leaders 2025.2 Cohort 5** @ Aspire Institute | <i>10/2025<i> 
+
+<!--
+TEMPLATE: duplique o bloco abaixo para cada nova conquista/reconhecimento.
+Substitua os campos entre [colchetes] pelas informações reais.
+IMPORTANTE: defina um [slug-da-conquista] único (ex: "hackathon-havk-winner") e use o MESMO slug:
+  1) na âncora <a id="[slug-da-conquista]"></a> logo antes do item;
+  2) na linha correspondente do Sumário (seção Achievements & Recognition), para o redirecionamento automático funcionar.
+-->
+
+<!--
+<a id="[slug-da-conquista]"></a>
+* **[Título da Conquista / Prêmio / Reconhecimento]** @ [Organização/Emissor] 🏆 | <i>[Data]</i>
+  * [Descrição objetiva: o que foi conquistado, contexto e impacto/resultado.]
+-->
 ---
 
 <a id="github-analytics"></a>
