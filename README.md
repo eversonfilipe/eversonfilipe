@@ -119,6 +119,8 @@ Beyond technical delivery, I was nominated for Kartado's Agility Award for resol
 <a id="kartado"></a>
 * **Technical Implementation Intern** @ Kartado | <i>09/2025-In Progress</i><br>
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"><img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django Admin"><img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS"><img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" /><br>
+<p align="center"><img width="200" height="145" alt="Gráfico do ClickUp da Kartado. Mostrando os 32,11% de contribuição de Éverson ao time." src="https://github.com/user-attachments/assets/6b68a4e5-b830-4e75-b615-642d71e71c24" /><img width="300" height="150" alt="Imagem de unboxing de kit de OnBoarding da Kartado. Com camisas, canecas, um caderno/agenda, etc." src="https://github.com/user-attachments/assets/1ad47361-db0d-4909-a7d1-0805fb3d9e9f" /><img width="330" height="150" alt="image" src="https://github.com/user-attachments/assets/86705dbc-3856-49b5-9779-92cc027a08f0" />
+</p>
 
 ````
     * Developed Python ETL automation scripts integrated with Django ORM, replacing manual data transformation and loading workflows.
