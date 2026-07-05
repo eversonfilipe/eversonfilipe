@@ -422,8 +422,6 @@ IMPORTANTE: defina um [slug-do-evento] único (ex: "google-io-extended-2025") e 
 
 ---
 
----
-
 <a id="achievements-recognition"></a>
 # Achievements & Recognition
 
