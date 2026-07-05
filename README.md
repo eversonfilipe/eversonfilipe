@@ -62,7 +62,11 @@
   - [Bachelor's Degree in Computer Science](#graduacao-ciencia-computacao-unifavipwyden) | <i>02/2024-In Progress</i>
   - [Mentorship Program in Artificial Intelligence](#mentoria-labai-institutojoule-ia2025) | <i>08/2025-09/2025</i>
 - [Courses](#courses)
-  <!-- - [Nome do Curso](#slug-do-curso) -->
+  - [Postman: Do Zero ao Avançado + Testes Automatizados](#curso-postman-zeroaoavancado) | <i>12/2025</i>
+  - [Application Programming Interface: API and Web Services](#curso-applicationprogramminginterfaces-api) <i>12/2025</i>
+  - [Lab.AI: Preparing the Next Generation for the Future of Work](#curso-labai-mentoria2025) | <i>09/2025</i>
+  - [SkillsBuild - Customer Engagement: Problem Solving and Process Controls](#curso-skillsbuild-customerengagement) | <i>07/2025</i>
+  - [EF SET English Certificate 69/100 (C1 Advanced)](#curso-efset-2025) | <i>02/2025</i>
 - [Certifications](#certifications)
   <!-- - [Nome da Certificação](#slug-da-certificacao) -->
 
@@ -225,7 +229,20 @@ IMPORTANTE: defina um [slug-da-formacao] único (ex: "cs-bacharelado-caruaru") e
 <a id="courses"></a>
 # Courses
 
-*Under construction.*
+<a id="curso-postman-zeroaoavancado"></a>
+* **Postman: Do Zero ao Avançado + Testes Automatizados** @ Udemy | <i>12/2025</i>
+
+<a id="curso-applicationprogramminginterfaces-api"></a>
+* **Application Programming Interface: API and Web Services** @ Udemy | <i>12/2025</i>
+
+<a id="curso-labai-mentoria2025"></a>
+* **Lab.AI: Preparing the Next Generation for the Future of Work** @ Instituto Joule | <i>09/2025</i>
+
+<a id="curso-skillsbuild-customerengagement"></a>
+* **SkillsBuild - Customer Engagement: Problem Solving and Process Controls** @ IBM | <i>07/2025</i>
+
+<a id="curso-efset-2025"></a>
+* **EF SET English Certificate 69/100 (C1 Advanced)** @ EF SET | <i>02/2025</i>
 
 <!--
 TEMPLATE: duplique a linha abaixo para cada novo curso.
