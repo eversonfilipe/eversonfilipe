@@ -54,7 +54,7 @@
   - [Agile Product Manager Learner @ Daus](#daus) | <i>12/2024-06/2025</i>
 
 **Portfolio**
-- [Projects](#projects)
+- [Main Projects](#main-projects)
   <!-- - [Nome do Projeto](#slug-do-projeto) -->
 
 **Academic Background**
@@ -172,8 +172,8 @@ Beyond technical delivery, I was nominated for Kartado's Agility Award for resol
 ````
 ---
 
-<a id="projects"></a>
-# Projects
+<a id="main-projects"></a>
+# Main Projects
 
 *Under construction.*
 
