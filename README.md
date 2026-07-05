@@ -38,6 +38,11 @@
     <img src="https://img.shields.io/badge/AWS_Step_Functions-D9A741?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS Step Functions">
     <img src="https://img.shields.io/badge/Amazon_Athena-8C4FFF?style=for-the-badge&logo=amazonaws&logoColor=white" alt="Amazon Athena">
   </p>
+  <p>
+    <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira">
+    <img src="https://img.shields.io/badge/ClickUp-7B68EE?style=for-the-badge&logo=clickup&logoColor=white" alt="ClickUp">
+    <img src="https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white" alt="Bitbucket">
+  </p>
 </div>
 
 
