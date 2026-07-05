@@ -63,7 +63,7 @@
   - [Mentorship Program in Artificial Intelligence](#mentoria-labai-institutojoule-ia2025) | <i>08/2025-09/2025</i>
 - [Courses](#courses)
   - [Postman: Do Zero ao Avançado + Testes Automatizados](#curso-postman-zeroaoavancado) | <i>12/2025</i>
-  - [Application Programming Interface: API and Web Services](#curso-applicationprogramminginterfaces-api) <i>12/2025</i>
+  - [Application Programming Interface: API and Web Services](#curso-applicationprogramminginterfaces-api) | <i>12/2025</i>
   - [Lab.AI: Preparing the Next Generation for the Future of Work](#curso-labai-mentoria2025) | <i>09/2025</i>
   - [SkillsBuild - Customer Engagement: Problem Solving and Process Controls](#curso-skillsbuild-customerengagement) | <i>07/2025</i>
   - [EF SET English Certificate 69/100 (C1 Advanced)](#curso-efset-2025) | <i>02/2025</i>
@@ -76,6 +76,10 @@
   - [Ambassador & Facilitator @ Politize!](#ambassador-facilitator-politize!) | <i>05/2025-In Progress</i>
   - [OGT & Marketing Comittee @ AIESEC no Mackenzie](#aiesecmackenzie-volunteer) | <i>03/2025-08/2025</i>
   - [Soft Skills Instructor @ Vai Na Web](#vainaweb-volunteering) | <i>01/2025</i>
+- [Hackathons](#hackathons)
+  <!-- - [Nome do Hackathon](#slug-do-hackathon) | <i>[Data]</i> -->
+- [Events](#events)
+  <!-- - [Nome do Evento](#slug-do-evento) | <i>[Data]</i> -->
 
 **Repository Overview**
 - [GitHub Analytics](#github-analytics)
@@ -256,7 +260,7 @@ IMPORTANTE: defina um [slug-do-curso] único (ex: "aws-cloud-practitioner-course
 
 <!--
 <a id="[slug-do-curso]"></a>
-* **[Nome do Curso]** @ [Instituição/Plataforma] ([Data / Carga horária])
+* **[Nome do Curso]** @ [Instituição/Plataforma] | <i>[Data / Carga horária]</i>
 -->
 
 ---
@@ -276,7 +280,7 @@ IMPORTANTE: defina um [slug-da-certificacao] único (ex: "aws-certified-cloud-pr
 
 <!--
 <a id="[slug-da-certificacao]"></a>
-* **[Nome da Certificação]** @ [Instituição/Emissor] ([Data de Emissão / Validade])
+* **[Nome da Certificação]** @ [Instituição/Emissor] | <i>[Data de Emissão / Validade]</i>
 -->
 
 ---
@@ -306,7 +310,47 @@ IMPORTANTE: defina um [slug-do-voluntariado] único (ex: "aiesec-alas") e use o 
 
 <!--
 <a id="[slug-do-voluntariado]"></a>
-* **[Nome do Voluntariado]** @ [Organização] ([Período])
+* **[Nome do Voluntariado]** @ [Organização] | <i>[Período]</i>
+-->
+
+---
+
+<a id="hackathons"></a>
+# Hackathons
+
+*Under construction.*
+
+<!--
+TEMPLATE: duplique a linha abaixo para cada novo hackathon.
+Substitua os campos entre [colchetes] pelas informações reais.
+IMPORTANTE: defina um [slug-do-hackathon] único (ex: "hackathon-govtech-recife-2025") e use o MESMO slug:
+  1) na âncora <a id="[slug-do-hackathon]"></a> logo antes do item;
+  2) na linha correspondente do Sumário (seção Hackathons), para o redirecionamento automático funcionar.
+-->
+
+<!--
+<a id="[slug-do-hackathon]"></a>
+* **[Nome do Hackathon]** @ [Organização/Promotor] ([Tipo: Hackathon / Datathon / Maratona de Programação]) | <i>[Data]</i>
+-->
+
+---
+
+<a id="events"></a>
+# Events
+
+*Under construction.*
+
+<!--
+TEMPLATE: duplique a linha abaixo para cada novo evento.
+Substitua os campos entre [colchetes] pelas informações reais.
+IMPORTANTE: defina um [slug-do-evento] único (ex: "google-io-extended-2025") e use o MESMO slug:
+  1) na âncora <a id="[slug-do-evento]"></a> logo antes do item;
+  2) na linha correspondente do Sumário (seção Events), para o redirecionamento automático funcionar.
+-->
+
+<!--
+<a id="[slug-do-evento]"></a>
+* **[Nome do Evento]** @ [Organização/Local] ([Tipo: Conferência / Meetup / Workshop / Palestra]) | <i>[Data]</i>
 -->
 
 ---
