@@ -121,7 +121,7 @@
 
 <a id="who-everson-filipe-is"></a>
 #### Who Éverson Filipe is
-As an Implementation Analyst specializing in Implementation Engineering and AI-driven Automation, I transform complex business requirements into **scalable, reliable workflows and software configurations for B2B clients.** Working directly with cloud-based ERP systems and SaaS platforms, I configure solutions using Python, Django Admin, JSONLogic, and AWS (EC2, S3, IAM, Step Functions), ensuring high availability and seamless integrations with REST APIs and cloud BI services such as Amazon Athena.
+As an Implementation Analyst specializing in Implementation Engineering and AI-driven Automation, I transform complex business requirements into **scalable, reliable workflows and software configurations for B2B clients.** Working directly with cloud-based ERP systems and SaaS platforms, I configure solutions using Python, Django Admin, JSONLogic, and AWS (EC2, S3, IAM, Step Functions), ensuring integrations with REST APIs and cloud BI services such as Amazon Athena.
 
 <a id="my-standards-are"></a>
 #### My standards are
@@ -140,9 +140,9 @@ Beyond technical delivery, I was nominated for Kartado's Agility Award for resol
 
 ---
 
-* 🔭 I’m currently working on **KARTADO | KARTADO ROADS**
-* 🌱 I’m currently learning **UML/Deepening OOP**
-* 👯 I’m looking to collaborate on **LLM ACADEMIC PROJECTS**
+* I’m currently working on **KARTADO**
+* I’m currently learning **UML/Deepening OOP**
+* I’m looking to collaborate on **LLM ACADEMIC PROJECTS**
   
 ---
 
