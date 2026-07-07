@@ -156,6 +156,7 @@ Beyond technical delivery, I was nominated for Kartado's Agility Award for resol
 </p>
 
 ````
+    * Configured JSONLogic rules for dynamic forms across 42+ client environments via Django Admin, ensuring data integrity and functional consistency.
     * Developed Python ETL automation scripts integrated with Django ORM, replacing manual data transformation and loading workflows.
     * Built notebook-based Python scripts for JSON metadata extraction, schema validation, and proactive detection of structural inconsistencies in exported datasets.
     * Corrected GIS maps, adjusted Shapefiles, and validated spatial geometries to support highway concession system parameterization.
@@ -165,7 +166,7 @@ Beyond technical delivery, I was nominated for Kartado's Agility Award for resol
     * Nominated for the company's Monthly Agility Award (April 2026). 🏆
 ````
 ````
-    * Configurou regras em JSONLogic para formulários dinâmicos (visibilidade de campos, validação condicional e exportação de planilhas) em mais de 20 ambientes de clientes por meio do Django Admin, garantindo integridade dos dados e consistência funcional.
+    * Configurou regras em JSONLogic para formulários dinâmicos (visibilidade de campos, validação condicional e exportação de planilhas) em mais de 42 ambientes de clientes por meio do Django Admin, garantindo integridade dos dados e consistência funcional.
     * Desenvolveu scripts de automação ETL em Python integrados ao Django ORM, substituindo fluxos manuais de transformação e carregamento de dados.
     * Desenvolveu scripts em notebooks Python para extração de metadados JSON, validação de esquemas e detecção proativa de inconsistências estruturais em conjuntos de dados exportados.
     * Corrigiu mapas GIS, ajustou arquivos Shapefile e validou geometrias espaciais para apoiar a parametrização de sistemas de concessões rodoviárias.
