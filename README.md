@@ -126,7 +126,7 @@ As an Implementation Analyst specializing in Implementation Engineering and AI-d
 <a id="my-standards-are"></a>
 #### My standards are
 **My work is grounded in data integrity and workflow standardization.**
-Operating within Agile frameworks, I have delivered more than 528 validated technical work items tracked in ClickUp and successfully implemented over 18 operational units, contributing 32% of my team's technical output during my first months.
+Operating within Agile frameworks, I have delivered more than 800 validated tasks tracked in ClickUp and successfully implemented over 42 operational B2B clients, contributing 32% of my team's technical output during my first months.
 
 • Cloud and Infrastructure: Active management of identities and policies via AWS IAM, provisioning and access to EC2 instances via AWS CLI, and administration of storage in S3 buckets. 
 
