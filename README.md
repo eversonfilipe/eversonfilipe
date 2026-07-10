@@ -163,7 +163,9 @@ Beyond technical delivery, I was nominated for Kartado's Agility Award for resol
     * Maintained REST API/JWT integration documentation and Pytest validation scripts for Django modules.
     * Leveraged AWS IAM, Amazon EC2, Amazon ECS (Docker), AWS Step Functions, ODBC, and Amazon Athena across infrastructure, secure access, data integration, and analytics workflows in client environments.
     * Automated the generation of parameterization spreadsheets using Python, Pandas, and openpyxl, reducing manual effort in implementation workflows.
-    * Nominated for the company's Monthly Agility Award (April 2026). 🏆
+    ---
+    * 04/2026: Indicado ao Prêmio Mensal de Agilidade da empresa (abril de 2026). 🏆
+    * 07/2026: Contribuiu para o alcance de 99,48% das implantações técnicas entregues no prazo pela equipe, conforme apresentado na reunião de Resultados de Implantação de julho de 2026, mantendo 100% das tarefas de implantação sob sua responsabilidade entregues dentro do prazo durante o primeiro semestre de 2026. 📊
 ````
 ````
     * Configurou regras em JSONLogic para formulários dinâmicos (visibilidade de campos, validação condicional e exportação de planilhas) em mais de 42 ambientes de clientes por meio do Django Admin, garantindo integridade dos dados e consistência funcional.
@@ -173,7 +175,9 @@ Beyond technical delivery, I was nominated for Kartado's Agility Award for resol
     * Manteve a documentação de integrações REST API/JWT e scripts de validação com Pytest para módulos Django.
     * Utilizou AWS IAM, Amazon EC2, Amazon ECS (Docker), AWS Step Functions, ODBC e Amazon Athena em atividades de infraestrutura, acesso seguro, integração de dados e fluxos de análise em ambientes de clientes.
     * Automatizou a geração de planilhas de parametrização utilizando Python, Pandas e openpyxl, reduzindo o esforço manual nos fluxos de trabalho de implantação.
-    * Indicado ao Prêmio Mensal de Agilidade da empresa (abril de 2026). 🏆
+    ---
+    * 04/2026: Indicado ao Prêmio Mensal de Agilidade da empresa (abril de 2026). 🏆
+    * 07/2026: Contribuiu para o alcance de 99,48% das implantações técnicas entregues no prazo pela equipe, conforme apresentado na reunião de Resultados de Implantação de julho de 2026, mantendo 100% das tarefas de implantação sob sua responsabilidade entregues dentro do prazo durante o primeiro semestre de 2026. 📊
 ````
 ---
 
