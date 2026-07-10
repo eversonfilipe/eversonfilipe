@@ -164,8 +164,8 @@ Beyond technical delivery, I was nominated for Kartado's Agility Award for resol
     * Leveraged AWS IAM, Amazon EC2, Amazon ECS (Docker), AWS Step Functions, ODBC, and Amazon Athena across infrastructure, secure access, data integration, and analytics workflows in client environments.
     * Automated the generation of parameterization spreadsheets using Python, Pandas, and openpyxl, reducing manual effort in implementation workflows.
     ---
-    * 04/2026: Indicado ao Prêmio Mensal de Agilidade da empresa (abril de 2026). 🏆
-    * 07/2026: Contributed to the team's achievement of 99.48% on-time technical implementation delivery during the July 2026 implementation results review, while maintaining a 100% on-time completion rate for assigned implementation tasks throughout the first half of 2026.
+    * 04/2026: Nominated for the company's Monthly Agility Award (April 2026). 🏆
+    * 07/2026: Contributed to the team's achievement of 99.48% on-time technical implementation delivery during the July 2026 implementation results review, while maintaining a 100% on-time completion rate for assigned implementation tasks throughout the first half of 2026. 📊
 ````
 ````
     * Configurou regras em JSONLogic para formulários dinâmicos (visibilidade de campos, validação condicional e exportação de planilhas) em mais de 42 ambientes de clientes por meio do Django Admin, garantindo integridade dos dados e consistência funcional.
