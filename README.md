@@ -165,7 +165,7 @@ Beyond technical delivery, I was nominated for Kartado's Agility Award for resol
     * Automated the generation of parameterization spreadsheets using Python, Pandas, and openpyxl, reducing manual effort in implementation workflows.
     ---
     * 04/2026: Indicado ao Prêmio Mensal de Agilidade da empresa (abril de 2026). 🏆
-    * 07/2026: Contribuiu para o alcance de 99,48% das implantações técnicas entregues no prazo pela equipe, conforme apresentado na reunião de Resultados de Implantação de julho de 2026, mantendo 100% das tarefas de implantação sob sua responsabilidade entregues dentro do prazo durante o primeiro semestre de 2026. 📊
+    * 07/2026: Contributed to the team's achievement of 99.48% on-time technical implementation delivery during the July 2026 implementation results review, while maintaining a 100% on-time completion rate for assigned implementation tasks throughout the first half of 2026.
 ````
 ````
     * Configurou regras em JSONLogic para formulários dinâmicos (visibilidade de campos, validação condicional e exportação de planilhas) em mais de 42 ambientes de clientes por meio do Django Admin, garantindo integridade dos dados e consistência funcional.
