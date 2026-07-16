@@ -26,23 +26,18 @@
 ---
 <div align="center">
   <h1>Tech Stack</h1>
-  <p>
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-    <img src="https://img.shields.io/badge/openpyxl-217346?style=for-the-badge&logo=python&logoColor=white" alt="openpyxl">
-    <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django">
-    <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter Notebook">
-  </p>
-  <p>
-    <img src="https://img.shields.io/badge/Amazon_S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white" alt="Amazon S3">
-    <img src="https://img.shields.io/badge/AWS_IAM-DD344C?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS IAM">
-    <img src="https://img.shields.io/badge/AWS_Step_Functions-D9A741?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS Step Functions">
-    <img src="https://img.shields.io/badge/Amazon_Athena-8C4FFF?style=for-the-badge&logo=amazonaws&logoColor=white" alt="Amazon Athena">
-  </p>
-  <p>
-    <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira">
-    <img src="https://img.shields.io/badge/ClickUp-7B68EE?style=for-the-badge&logo=clickup&logoColor=white" alt="ClickUp">
-    <img src="https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white" alt="Bitbucket">
-  </p>
+  <p align="center">
+  <img src="https://img.shields.io/badge/Implementation_Engineering-4A154B?style=for-the-badge&logo=apache&logoColor=white" alt="Implementation Engineering">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter">
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django">
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/JSONLogic-000000?style=for-the-badge&logo=json&logoColor=white" alt="JSONLogic">
+  <img src="https://img.shields.io/badge/Amazon_S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white" alt="Amazon S3">
+  <img src="https://img.shields.io/badge/AWS_IAM-DD344C?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS IAM">
+  <img src="https://img.shields.io/badge/Web_Services-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="Web Services">
+</p>
 </div>
 
 
@@ -151,7 +146,14 @@ Beyond technical delivery, I was nominated for Kartado's Agility Award for resol
 
 <a id="kartado"></a>
 * **Technical Implementation Intern** @ Kartado | <i>09/2025-In Progress</i><br>
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"><img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django Admin"><img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS"><img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" /><br>
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/JSONLogic-000000?style=for-the-badge&logo=json&logoColor=white" />
+  <img src="https://img.shields.io/badge/GIS-2C4B8C?style=for-the-badge&logo=arcgis&logoColor=white" />
+</p><br>
 <p align="center"><img width="200" height="145" alt="Gráfico do ClickUp da Kartado. Mostrando os 32,11% de contribuição de Éverson ao time." src="assets\kartado-experience\kartado_internship_metrics.png" /><img width="300" height="150" alt="Imagem de unboxing de kit de OnBoarding da Kartado. Com camisas, canecas, um caderno/agenda, etc." src="assets\kartado-experience\kartado_onboarding_kit.png" /><img width="330" height="150" alt="image" src="assets\kartado-experience\nominee_monthly_agility_award.png" />
 </p>
 
@@ -183,7 +185,13 @@ Beyond technical delivery, I was nominated for Kartado's Agility Award for resol
 
 <a id="daus"></a>
 * **Agile Product Manager Learner** @ Daus | <i>12/2024-06/2025</i><br>
-<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white" alt="Jira"><img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"><img src="https://img.shields.io/badge/Miro-050038?style=for-the-badge&logo=Miro&logoColor=white" alt="Miro"><img src="https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white" alt="Confluence"> <br>
+<p align="center">
+  <img src="https://img.shields.io/badge/Scrum-009FDA?style=for-the-badge&logo=scrumalliance&logoColor=white" alt="Scrum" />
+  <img src="https://img.shields.io/badge/Kanban-FF6600?style=for-the-badge&logo=kanban&logoColor=white" alt="Kanban" />
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira" />
+  <img src="https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white" alt="Confluence" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+</p><br>
 
 ````
     * Applied Scrum, Kanban, and Lean Thinking frameworks to drive product discovery and requirements analysis across internal and multi-client portfolio projects in a software house environment.
