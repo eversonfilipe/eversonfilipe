@@ -153,6 +153,7 @@ Beyond technical delivery, I was nominated for Kartado's Agility Award for resol
   <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
   <img src="https://img.shields.io/badge/JSONLogic-000000?style=for-the-badge&logo=json&logoColor=white" />
   <img src="https://img.shields.io/badge/GIS-2C4B8C?style=for-the-badge&logo=arcgis&logoColor=white" />
+  <img src="https://img.shields.io/badge/ClickUp-7B68EE?style=for-the-badge&logoColor=white" />
 </p><br>
 <p align="center"><img width="200" height="145" alt="Gráfico do ClickUp da Kartado. Mostrando os 32,11% de contribuição de Éverson ao time." src="assets\kartado-experience\kartado_internship_metrics.png" /><img width="300" height="150" alt="Imagem de unboxing de kit de OnBoarding da Kartado. Com camisas, canecas, um caderno/agenda, etc." src="assets\kartado-experience\kartado_onboarding_kit.png" /><img width="330" height="150" alt="image" src="assets\kartado-experience\nominee_monthly_agility_award.png" />
 </p>
