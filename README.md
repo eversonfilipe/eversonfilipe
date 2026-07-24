@@ -169,6 +169,8 @@ Beyond technical delivery, I was nominated for Kartado's Agility Award for resol
     ---
     * 04/2026: Nominated for the company's Monthly Agility Award (April 2026). 🏆
     * 07/2026: Contributed to the team's achievement of 99.48% on-time technical implementation delivery during the July 2026 implementation results review, while maintaining a 100% on-time completion rate for assigned implementation tasks throughout the first half of 2026. 📊
+    ---
+    * Tech Stack: JSONLogic, Django, Python, Pandas, OpenpyXL, GIS, AWS.
 ````
 ````
     * Configurou regras em JSONLogic para formulários dinâmicos (visibilidade de campos, validação condicional e exportação de planilhas) em mais de 42 ambientes de clientes por meio do Django Admin, garantindo integridade dos dados e consistência funcional.
@@ -181,6 +183,8 @@ Beyond technical delivery, I was nominated for Kartado's Agility Award for resol
     ---
     * 04/2026: Indicado ao Prêmio Mensal de Agilidade da empresa (abril de 2026). 🏆
     * 07/2026: Contribuiu para o alcance de 99,48% das implantações técnicas entregues no prazo pela equipe, conforme apresentado na reunião de Resultados de Implantação de julho de 2026, mantendo 100% das tarefas de implantação sob sua responsabilidade entregues dentro do prazo durante o primeiro semestre de 2026. 📊
+    ---
+    * Tech Stack: JSONLogic, Django, Python, Pandas, OpenpyXL, GIS, AWS.
 ````
 ---
 
@@ -198,11 +202,17 @@ Beyond technical delivery, I was nominated for Kartado's Agility Award for resol
     * Applied Scrum, Kanban, and Lean Thinking frameworks to drive product discovery and requirements analysis across internal and multi-client portfolio projects in a software house environment.
     * Documented product insights, user flows, and functional requirements across the Atlassian ecosystem (Jira, Confluence) and FigJam.
     * Mentored two intern cohorts across structured onboarding programs in Agile Product Management workflows and MVP-delivery.
+    ---
+    * Tech Stack: Figma, FigJam, Jira, Confluence.
+    * Methodologies: Scrum, Kanban, Lean Thinking.
 ````
 ````
     * Aplicou os frameworks Scrum, Kanban e Lean Thinking para conduzir atividades de Product Discovery e análise de requisitos em projetos internos e em um portfólio de múltiplos clientes em um ambiente de software house.
     * Documentou insights de produto, fluxos de usuários e requisitos funcionais utilizando o ecossistema Atlassian (Jira e Confluence) e o FigJam.
     * Mentorou duas turmas de estagiários em programas estruturados de onboarding, capacitando-os em fluxos de trabalho de Gestão Ágil de Produtos e entrega de MVPs.
+    ---
+    * Tech Stack: Figma, FigJam, Jira, Confluence.
+    * Metodologias: Scrum, Kanban, Lean Thinking.
 ````
 ---
 
