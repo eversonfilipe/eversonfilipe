@@ -52,7 +52,7 @@
 
 **Professional Experience**
 - [Professional Trajectory](#professional-trajectory)
-  - [Technical Implementation Intern @ Kartado](#kartado) | <i>09/2025-In Progress</i>
+  - [Systems Implementation Analyst Intern @ Kartado](#kartado) | <i>09/2025-In Progress</i>
   - [Agile Product Manager Learner @ Daus](#daus) | <i>12/2024-06/2025</i>
 
 **Portfolio**
@@ -145,7 +145,7 @@ Beyond technical delivery, I was nominated for Kartado's Agility Award for resol
 # Professional Trajectory
 
 <a id="kartado"></a>
-* **Technical Implementation Intern** @ Kartado | <i>09/2025-In Progress</i><br>
+* **Systems Implementation Analyst Intern** @ Kartado | <i>09/2025-In Progress</i><br>
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
