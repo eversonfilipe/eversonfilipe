@@ -64,6 +64,7 @@
   - [Bachelor's Degree in Computer Science](#graduacao-ciencia-computacao-unifavipwyden) | <i>02/2024-In Progress</i>
   - [Mentorship Program in Artificial Intelligence](#mentoria-labai-institutojoule-ia2025) | <i>08/2025-09/2025</i>
 - [Courses](#courses)
+  - [Introduction to SAFe](#introduction-to-safe) | <i>07/2026</i>
   - [Postman: Do Zero ao Avançado + Testes Automatizados](#curso-postman-zeroaoavancado) | <i>12/2025</i>
   - [Application Programming Interface: API and Web Services](#curso-applicationprogramminginterfaces-api) | <i>12/2025</i>
   - [Lab.AI: Preparing the Next Generation for the Future of Work](#curso-labai-mentoria2025) | <i>09/2025</i>
@@ -287,6 +288,9 @@ IMPORTANTE: defina um [slug-da-formacao] único (ex: "cs-bacharelado-caruaru") e
 
 <a id="courses"></a>
 # Courses
+
+<a id="introduction-to-safe"></a>
+* **Introduction to SAFe** @ Simplilearn | <i>07/2026</i>
 
 <a id="curso-postman-zeroaoavancado"></a>
 * **Postman: Do Zero ao Avançado + Testes Automatizados** @ Udemy | <i>12/2025</i>
