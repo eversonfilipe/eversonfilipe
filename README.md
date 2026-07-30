@@ -160,32 +160,44 @@ Beyond technical delivery, I was nominated for Kartado's Agility Award for resol
 </p>
 
 ````
-    * Configured JSONLogic rules for dynamic forms across 42+ client environments via Django Admin, ensuring data integrity and functional consistency.
-    * Developed Python ETL automation scripts integrated with Django ORM, replacing manual data transformation and loading workflows.
-    * Built notebook-based Python scripts for JSON metadata extraction, schema validation, and proactive detection of structural inconsistencies in exported datasets.
-    * Corrected GIS maps, adjusted Shapefiles, and validated spatial geometries to support highway concession system parameterization.
-    * Maintained REST API/JWT integration documentation and Pytest validation scripts for Django modules.
-    * Leveraged AWS IAM, Amazon EC2, Amazon ECS (Docker), AWS Step Functions, ODBC, and Amazon Athena across infrastructure, secure access, data integration, and analytics workflows in client environments.
-    * Automated the generation of parameterization spreadsheets using Python, Pandas, and openpyxl, reducing manual effort in implementation workflows.
-    ---
-    * 04/2026: Nominated for the company's Monthly Agility Award (April 2026). 🏆
-    * 07/2026: Contributed to the team's achievement of 99.48% on-time technical implementation delivery during the July 2026 implementation results review, while maintaining a 100% on-time completion rate for assigned implementation tasks throughout the first half of 2026. 📊
-    ---
-    * Tech Stack: JSONLogic, Django, Python, Pandas, OpenpyXL, GIS, AWS.
+    Kartado is a B2B SaaS company serving the highway concession sector. As a Systems Implementation Intern, I turned client business requirements into software configurations and automated workflows across 42+B2B client environments, operating within Agile frameworks.
+
+    Key responsibilities:
+    * Configured JSONLogic rules for dynamic forms across 42+ client environments via Django Admin, ensuring data integrity and functional consistency; corrected GIS maps, adjusted Shapefiles, and validated spatial geometries for highway concession system parameterization;
+
+    * Developed Python ETL automation scripts integrated with Django ORM, replacing manual data transformation workflows; automated the generation of parameterization spreadsheets using Python, Pandas, and openpyxl, reducing manual effort;
+
+    * Built notebook-based Python scripts for JSON metadata extraction, schema validation, and proactive detection of structural inconsistencies in exported datasets; maintained REST API/JWT integration documentation and Pytest validation scripts for Django modules;
+
+    * Leveraged AWS IAM, Amazon EC2, Amazon ECS (Docker), AWS Step Functions, ODBC, and Amazon Athena across infrastructure, secure access, data integration, and analytics workflows in client environments;
+
+    Results:
+    * Nominated for the company's Monthly Agility Award (April 2026).
+    * Contributed to the team's 99.48% on-time technical implementation delivery (July 2026 results review).
+    * Maintained a 100% on-time completion rate for assigned implementation tasks throughout the first half of 2026.
+
+    Tech Stack:
+    * JSONLogic, Django, Python, Pandas, OpenpyXL, GIS, AWS.
 ````
 ````
-    * Configurou regras em JSONLogic para formulários dinâmicos (visibilidade de campos, validação condicional e exportação de planilhas) em mais de 42 ambientes de clientes por meio do Django Admin, garantindo integridade dos dados e consistência funcional.
-    * Desenvolveu scripts de automação ETL em Python integrados ao Django ORM, substituindo fluxos manuais de transformação e carregamento de dados.
-    * Desenvolveu scripts em notebooks Python para extração de metadados JSON, validação de esquemas e detecção proativa de inconsistências estruturais em conjuntos de dados exportados.
-    * Corrigiu mapas GIS, ajustou arquivos Shapefile e validou geometrias espaciais para apoiar a parametrização de sistemas de concessões rodoviárias.
-    * Manteve a documentação de integrações REST API/JWT e scripts de validação com Pytest para módulos Django.
-    * Utilizou AWS IAM, Amazon EC2, Amazon ECS (Docker), AWS Step Functions, ODBC e Amazon Athena em atividades de infraestrutura, acesso seguro, integração de dados e fluxos de análise em ambientes de clientes.
-    * Automatizou a geração de planilhas de parametrização utilizando Python, Pandas e openpyxl, reduzindo o esforço manual nos fluxos de trabalho de implantação.
-    ---
-    * 04/2026: Indicado ao Prêmio Mensal de Agilidade da empresa (abril de 2026). 🏆
-    * 07/2026: Contribuiu para o alcance de 99,48% das implantações técnicas entregues no prazo pela equipe, conforme apresentado na reunião de Resultados de Implantação de julho de 2026, mantendo 100% das tarefas de implantação sob sua responsabilidade entregues dentro do prazo durante o primeiro semestre de 2026. 📊
-    ---
-    * Tech Stack: JSONLogic, Django, Python, Pandas, OpenpyXL, GIS, AWS.
+    A Kartado é uma empresa de SaaS B2B que atende o setor de concessões rodoviárias. Como Estagiário de Implantação de Sistemas, traduzi requisitos de negócio em configurações de software e fluxos automatizados em mais de 42 ambientes de clientes B2B, atuando em frameworks ágeis.
+
+    Principais responsabilidades:
+    * Configurei regras JSONLogic para formulários dinâmicos em mais de 42 ambientes de clientes via Django Admin, garantindo integridade de dados e consistência funcional; corrigi mapas GIS, ajustei Shapefiles e validei geometrias espaciais para a parametrização de sistemas de concessão rodoviária;
+
+    * Desenvolvi scripts Python de automação ETL integrados ao Django ORM, substituindo fluxos manuais de transformação de dados; automatizei a geração de planilhas de parametrização com Python, Pandas e openpyxl, reduzindo o esforço manual;
+
+    * Construí scripts Python em notebooks para extração de metadados JSON, validação de schema e detecção proativa de inconsistências estruturais em datasets exportados; mantive a documentação de integração REST API/JWT e scripts de validação Pytest para módulos Django;
+
+    * Utilizei AWS IAM, Amazon EC2, Amazon ECS (Docker), AWS Step Functions, ODBC e Amazon Athena em fluxos de infraestrutura, acesso seguro, integração de dados e analytics nos ambientes dos clientes;
+
+    Resultados:
+    * Indicado ao Prêmio Mensal de Agilidade da empresa (abril de 2026).
+    * Contribuí para os 99,48% de entrega técnica no prazo do time (revisão de resultados de julho de 2026).
+    * Mantive 100% de conclusão no prazo nas tarefas de implantação sob minha responsabilidade no primeiro semestre de 2026.
+
+    Tech Stack:
+    * JSONLogic, Django, Python, Pandas, OpenpyXL, GIS, AWS.
 ````
 ---
 
