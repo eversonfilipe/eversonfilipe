@@ -212,7 +212,7 @@ Beyond technical delivery, I was nominated for Kartado's Agility Award for resol
 </p><br>
 
 ````
-    Daus is a small software house/startup delivering internal and multi-client portfolio projects. As a Product Management Learner focused on requirements gathering, I combined hands-on delivery with structured learning: while building fluency in Agile Product Management, I supported product discovery and requirements analysis, turning stakeholder needs into documented, actionable delivery artifacts.
+    Daus is a software house/startup delivering internal and multi-client portfolio projects. As a Product Management Learner focused on requirements gathering, I combined hands-on delivery with structured learning: while building fluency in Agile Product Management, I supported product discovery and requirements analysis, turning stakeholder needs into documented, actionable delivery artifacts.
 
     Key responsibilities:
     * Applied Scrum, Kanban, and Lean Thinking frameworks to drive product discovery in a software house environment;
@@ -231,7 +231,7 @@ Beyond technical delivery, I was nominated for Kartado's Agility Award for resol
     * Scrum, Kanban, Lean Thinking.
 ````
 ````
-    A Daus é uma pequena software house/startup que entrega projetos internos e de portfólio multi-cliente. Como Product Management Learner com foco em levantamento de requisitos, uni prática e aprendizado estruturado: ao mesmo tempo que desenvolvia fluência em Agile Product Management, atuei em product discovery e análise de requisitos, transformando necessidades de stakeholders em artefatos de entrega documentados e acionáveis.
+    A Daus é uma software house/startup que entrega projetos internos e de portfólio multi-cliente. Como Product Management Learner com foco em levantamento de requisitos, uni prática e aprendizado estruturado: ao mesmo tempo que desenvolvia fluência em Agile Product Management, atuei em product discovery e análise de requisitos, transformando necessidades de stakeholders em artefatos de entrega documentados e acionáveis.
 
     Principais responsabilidades:
     * Apliquei os frameworks Scrum, Kanban e Lean Thinking para conduzir product discovery em ambiente de software house;
