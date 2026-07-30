@@ -202,7 +202,7 @@ Beyond technical delivery, I was nominated for Kartado's Agility Award for resol
 ---
 
 <a id="daus"></a>
-* **Agile Product Manager Learner** @ Daus | <i>12/2024-06/2025</i><br>
+* **Product Management Learner | Requirements Gathering & Jira** @ Daus | <i>12/2024-06/2025</i><br>
 <p align="center">
   <img src="https://img.shields.io/badge/Scrum-009FDA?style=for-the-badge&logo=scrumalliance&logoColor=white" alt="Scrum" />
   <img src="https://img.shields.io/badge/Kanban-FF6600?style=for-the-badge&logo=kanban&logoColor=white" alt="Kanban" />
@@ -212,20 +212,42 @@ Beyond technical delivery, I was nominated for Kartado's Agility Award for resol
 </p><br>
 
 ````
-    * Applied Scrum, Kanban, and Lean Thinking frameworks to drive product discovery and requirements analysis across internal and multi-client portfolio projects in a software house environment.
-    * Documented product insights, user flows, and functional requirements across the Atlassian ecosystem (Jira, Confluence) and FigJam.
+    Daus is a small software house/startup delivering internal and multi-client portfolio projects. As a Product Management Learner focused on requirements gathering, I combined hands-on delivery with structured learning: while building fluency in Agile Product Management, I supported product discovery and requirements analysis, turning stakeholder needs into documented, actionable delivery artifacts.
+
+    Key responsibilities:
+    * Applied Scrum, Kanban, and Lean Thinking frameworks to drive product discovery in a software house environment;
+
+    * Conducted requirements analysis across internal and multi-client portfolio projects;
+
+    * Documented product insights, user flows, and functional requirements across the Atlassian ecosystem (Jira, Confluence) and FigJam;
+
+    Enablement & impact:
     * Mentored two intern cohorts across structured onboarding programs in Agile Product Management workflows and MVP-delivery.
-    ---
-    * Tech Stack: Figma, FigJam, Jira, Confluence.
-    * Methodologies: Scrum, Kanban, Lean Thinking.
+
+    Tech Stack:
+    * Figma, FigJam, Jira, Confluence.
+
+    Methodologies:
+    * Scrum, Kanban, Lean Thinking.
 ````
 ````
-    * Aplicou os frameworks Scrum, Kanban e Lean Thinking para conduzir atividades de Product Discovery e análise de requisitos em projetos internos e em um portfólio de múltiplos clientes em um ambiente de software house.
-    * Documentou insights de produto, fluxos de usuários e requisitos funcionais utilizando o ecossistema Atlassian (Jira e Confluence) e o FigJam.
-    * Mentorou duas turmas de estagiários em programas estruturados de onboarding, capacitando-os em fluxos de trabalho de Gestão Ágil de Produtos e entrega de MVPs.
-    ---
-    * Tech Stack: Figma, FigJam, Jira, Confluence.
-    * Metodologias: Scrum, Kanban, Lean Thinking.
+    A Daus é uma pequena software house/startup que entrega projetos internos e de portfólio multi-cliente. Como Product Management Learner com foco em levantamento de requisitos, uni prática e aprendizado estruturado: ao mesmo tempo que desenvolvia fluência em Agile Product Management, atuei em product discovery e análise de requisitos, transformando necessidades de stakeholders em artefatos de entrega documentados e acionáveis.
+
+    Principais responsabilidades:
+    * Apliquei os frameworks Scrum, Kanban e Lean Thinking para conduzir product discovery em ambiente de software house;
+
+    * Realizei análise de requisitos em projetos internos e de portfólio multi-cliente;
+
+    * Documentei insights de produto, user flows e requisitos funcionais no ecossistema Atlassian (Jira, Confluence) e no FigJam;
+
+    Capacitação e impacto:
+    * Mentorei duas turmas de estagiários em programas estruturados de onboarding, cobrindo workflows de Agile Product Management e entrega de MVP.
+
+    Tech Stack:
+    * Figma, FigJam, Jira, Confluence.
+
+    Metodologias:
+    * Scrum, Kanban, Lean Thinking.
 ````
 ---
 
