@@ -67,10 +67,12 @@
   - [Introduction to SAFe](#introduction-to-safe) | <i>07/2026</i>
   - [Postman: Do Zero ao Avançado + Testes Automatizados](#curso-postman-zeroaoavancado) | <i>12/2025</i>
   - [Application Programming Interface: API and Web Services](#curso-applicationprogramminginterfaces-api) | <i>12/2025</i>
+  - [2025 Aspire Leaders Program](#2025-aspire-leaders-program) | <i>12/2025</i>
   - [Lab.AI: Preparing the Next Generation for the Future of Work](#curso-labai-mentoria2025) | <i>09/2025</i>
   - [SkillsBuild - Customer Engagement: Problem Solving and Process Controls](#curso-skillsbuild-customerengagement) | <i>07/2025</i>
   - [Ignite Entrepreneurship Program](#curso-empreendedorismo-ignite) | <i>07/2025</i>
   - [EF SET English Certificate 69/100 (C1 Advanced)](#curso-efset-2025) | <i>02/2025</i>
+  - [Comunicación Intercultural - Proyecto Internacional](#comunicacion-intercultural-proyecto-internacional) | <i>10/2024</i>
   - [Competência Transversal - Tecnologia da Informação e Comunicação](#curso-competencia-transversal-senaisp-2023) | <i>11/2023</i>
 - [Certifications](#certifications)
   <!-- - [Nome da Certificação](#slug-da-certificacao) -->
@@ -334,6 +336,9 @@ IMPORTANTE: defina um [slug-da-formacao] único (ex: "cs-bacharelado-caruaru") e
 <a id="curso-applicationprogramminginterfaces-api"></a>
 * **Application Programming Interface: API and Web Services** @ Udemy | <i>12/2025</i>
 
+<a id="2025-aspire-leaders-program"></a>
+* **2025 Aspire Leaders Program** @ Aspire Institute | <i>12/2025</i>
+
 <a id="curso-labai-mentoria2025"></a>
 * **Lab.AI: Preparing the Next Generation for the Future of Work** @ Instituto Joule | <i>09/2025</i>
 
@@ -345,6 +350,9 @@ IMPORTANTE: defina um [slug-da-formacao] único (ex: "cs-bacharelado-caruaru") e
 
 <a id="curso-efset-2025"></a>
 * **EF SET English Certificate 69/100 (C1 Advanced)** @ EF SET | <i>02/2025</i>
+
+<a id="comunicacion-intercultural-proyecto-internacional"></a>
+* **Comunicación Intercultural - Proyecto Internacional** @ Campus b | <i>10/2024</i>
 
 <a id="curso-competencia-transversal-senaisp-2023"></a>
 * **Competência Transversal - Tecnologia da Informação e Comunicação** @ SENAI SP | <i>11/2023</i>
