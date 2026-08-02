@@ -69,7 +69,9 @@
   - [Application Programming Interface: API and Web Services](#curso-applicationprogramminginterfaces-api) | <i>12/2025</i>
   - [Lab.AI: Preparing the Next Generation for the Future of Work](#curso-labai-mentoria2025) | <i>09/2025</i>
   - [SkillsBuild - Customer Engagement: Problem Solving and Process Controls](#curso-skillsbuild-customerengagement) | <i>07/2025</i>
+  - [Ignite Entrepreneurship Program](#curso-empreendedorismo-ignite) | <i>07/2025</i>
   - [EF SET English Certificate 69/100 (C1 Advanced)](#curso-efset-2025) | <i>02/2025</i>
+  - [Competência Transversal - Tecnologia da Informação e Comunicação](#curso-competencia-transversal-senaisp-2023) | <i>11/2023</i>
 - [Certifications](#certifications)
   <!-- - [Nome da Certificação](#slug-da-certificacao) -->
 
@@ -338,8 +340,14 @@ IMPORTANTE: defina um [slug-da-formacao] único (ex: "cs-bacharelado-caruaru") e
 <a id="curso-skillsbuild-customerengagement"></a>
 * **SkillsBuild - Customer Engagement: Problem Solving and Process Controls** @ IBM | <i>07/2025</i>
 
+<a id="curso-empreendedorismo-ignite"></a>
+* **Ignite Entrepreneurship Program** @ Wadhwani Institute | <i>07/2025</i>
+
 <a id="curso-efset-2025"></a>
 * **EF SET English Certificate 69/100 (C1 Advanced)** @ EF SET | <i>02/2025</i>
+
+<a id="curso-competencia-transversal-senaisp-2023"></a>
+* **Competência Transversal - Tecnologia da Informação e Comunicação** @ SENAI SP | <i>11/2023</i>
 
 <!--
 TEMPLATE: duplique a linha abaixo para cada novo curso.
