@@ -118,34 +118,30 @@
 
 <a id="about-me"></a>
 ### About Me
-
 <a id="who-everson-filipe-is"></a>
 #### Who Éverson Filipe is
-As an Implementation Analyst specializing in Implementation Engineering and AI-driven Automation, I transform complex business requirements into **scalable, reliable workflows and software configurations for B2B clients.** Working directly with cloud-based ERP systems and SaaS platforms, I configure solutions using Python, Django Admin, JSONLogic, and AWS (EC2, S3, IAM, Step Functions), ensuring integrations with REST APIs and cloud BI services such as Amazon Athena.
-
+I'm a Systems Analyst early in my career, working in implementation engineering and automation for B2B software, and moving toward **AI Engineering**. In the highway concession sector, I've delivered **800+ tasks across 42+ client environments**, translating business requirements into software configurations that run in production and are audited by the clients who depend on them.
 <a id="my-standards-are"></a>
 #### My standards are
-**My work is grounded in data integrity and workflow standardization.**
-Operating within Agile frameworks, I have delivered more than 800 validated tasks tracked in ClickUp and successfully implemented over 42 operational B2B clients, contributing 32% of my team's technical output during my first months.
-
-• Cloud and Infrastructure: Active management of identities and policies via AWS IAM, provisioning and access to EC2 instances via AWS CLI, and administration of storage in S3 buckets. 
-
-• Backend Logic: Intensive use of Python, Django Admin, and JSONLogic to configure standardized operational units.
-
-• Technical Mentoring: Leadership in technological onboarding for programs such as GROWUP and SOFTEX, accelerating the integration of new talent into production environments.
-
+**The technical substrate is closer to agentic systems than it first appears.**
+Schema validation, tool integration, and workflow orchestration are the same primitives an agent depends on to act reliably.
+- Backend Logic: I've built JSONLogic rule engines for dynamic forms through Django Admin, and written Python ETL automation with Pandas and Django ORM.
+- Cloud and Infrastructure: I've worked across AWS IAM, EC2, ECS (Docker), Step Functions, and Amazon Athena, integrating systems through REST APIs.
+- Data Integrity: I've validated JSON schemas to catch structural inconsistencies before they reach a client.
 <a id="my-results-and-metrics"></a>
 #### My Results and Metrics
-Beyond technical delivery, I was nominated for Kartado's Agility Award for resolving API and JSONLogic issues that safeguarded platform uptime for the B2B clients and operational units under my responsibility. This recognition reflects my commitment to high-reliability engineering, my ability to solve complex systemic problems under pressure, and my focus on delivering agile technical solutions for both internal teams and customers.
+That discipline produced measurable results early: **32% of my team's output** in my first months, a **100% personal on-time delivery rate** through H1 2026, and a nomination for my company's Monthly Agility Award.
+
+I'm extending this into **Agentic AI** through hands-on work on how a system calls external tools reliably, how its outputs are evaluated before anyone trusts them, and what happens when it fails in front of a real client. My focus is deployment rather than demonstration. A language model can generate an agent in seconds. Making that agent behave correctly across dozens of environments with different rules, real data, and contractual obligations is a different problem, and it's the one I'm building toward.
+
+If you work on AI workflows, agentic systems, or automation that has to hold up with real clients, let's connect!
 
 ---
-
-* I’m currently working on **KARTADO**
-* I’m currently learning **UML/Deepening OOP**
-* I’m looking to collaborate on **LLM ACADEMIC PROJECTS**
+* I'm currently working on **KARTADO**
+* I'm currently learning **MCP, AGENT ORCHESTRATION & LLM EVALUATION**
+* I'm looking to collaborate on **AGENTIC AI & LLM PROJECTS**
   
 ---
-
 <a id="professional-trajectory"></a>
 # Professional Trajectory
 
