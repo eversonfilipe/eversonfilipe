@@ -118,16 +118,17 @@
 
 <a id="about-me"></a>
 ### About Me
+
 <a id="who-everson-filipe-is"></a>
 #### Who Éverson Filipe is
-I'm a Systems Analyst early in my career, working in implementation engineering and automation for B2B software, and moving toward **AI Engineering**. In the highway concession sector, I've delivered **800+ tasks across 42+ client environments**, translating business requirements into software configurations that run in production and are audited by the clients who depend on them.
+
+I'm an early-career **Systems Analyst** focused on **AI Engineering** and **Implementation Engineering**, transforming business requirements into reliable software configurations, standardized workflows, and production-ready solutions for B2B environments. My experience with ERP and SaaS platforms has strengthened my foundation in systems analysis, automation, cloud integrations, and software implementation, while I continue building practical expertise in **LLMs, Agentic AI, RAG, LangChain, LangGraph, and GenAI**.
+
 <a id="my-standards-are"></a>
 #### My standards are
-**The technical substrate is closer to agentic systems than it first appears.**
-Schema validation, tool integration, and workflow orchestration are the same primitives an agent depends on to act reliably.
-- Backend Logic: I've built JSONLogic rule engines for dynamic forms through Django Admin, and written Python ETL automation with Pandas and Django ORM.
-- Cloud and Infrastructure: I've worked across AWS IAM, EC2, ECS (Docker), Step Functions, and Amazon Athena, integrating systems through REST APIs.
-- Data Integrity: I've validated JSON schemas to catch structural inconsistencies before they reach a client.
+
+I believe **AI is an extension of software engineering**. My work combines systems implementation, workflow automation, data integrity, and scalable architectures to build reliable solutions that solve real business problems. I'm continuously expanding my technical foundation while collaborating with multidisciplinary teams and applying AI concepts through practical projects.
+
 <a id="my-results-and-metrics"></a>
 #### My Results and Metrics
 That discipline produced measurable results early: **32% of my team's output** in my first months, a **100% personal on-time delivery rate** through H1 2026, and a nomination for my company's Monthly Agility Award.
