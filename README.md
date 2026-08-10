@@ -211,7 +211,7 @@ If you work on AI workflows, agentic systems, or automation that has to hold up 
   <img src="https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white" alt="Confluence" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
 </p><br>
-<p align="center"><img width="200" height="145" alt="Screenshot da Landing Page da Daus, em que Éverson Filipe (eu) fui aprendiz de Product Manager/Agilista." src="assets\daus-experience\daus-website-landing1.png" /></p>
+<p align="center"><img width="400" height="195" alt="Screenshot da Landing Page da Daus, em que Éverson Filipe (eu) fui aprendiz de Product Manager/Agilista." src="assets\daus-experience\daus-website-landing1.png" /></p>
 
 ````
     Daus is a software house/startup delivering internal and multi-client portfolio projects. As a Product Management Learner focused on requirements gathering, I combined hands-on delivery with structured learning: while building fluency in Agile Product Management, I supported product discovery and requirements analysis, turning stakeholder needs into documented, actionable delivery artifacts.
