@@ -54,6 +54,7 @@
 - [Professional Trajectory](#professional-trajectory)
   - [Systems Implementation Intern @ Kartado](#kartado) | <i>09/2025-In Progress</i>
   - [Agile Product Manager Learner @ Daus](#daus) | <i>12/2024-06/2025</i>
+  - [Product Manager Intern @ TT&T Soluções em Informática LTDA](#ttet-solucoes) | <i>09/2024-02/2025</i>
 
 **Portfolio**
 - [Main Projects](#main-projects)
@@ -251,6 +252,62 @@ If you work on AI workflows, agentic systems, or automation that has to hold up 
     Metodologias:
     * Scrum, Kanban, Lean Thinking.
 ````
+---
+
+<a id="ttet-solucoes"></a>
+* **Product Manager Intern** @ TT&T Soluções em Informática Ltda | <i>09/2024-02/2025</i><br>
+<p align="center">
+  <img src="https://img.shields.io/badge/Google_Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" alt="Google Drive" />
+  <img src="https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white" alt="Google Sheets" />
+</p><br>
+
+````
+    TT&T Soluções em Informática LTDA develops internal and external systems, including the HiApps product line. As a Product Manager Intern, I combined hands-on delivery with structured learning: while deepening my command of Agile methodologies, I coordinated ceremonies and translated requirements throughout the sprints.
+
+  Key responsibilities:
+  * Coordinated and participated in Agile ceremonies and other Agile methodology artifacts throughout the sprints, including dailies;
+
+  * Collaborated closely with UX/UI teams on the company's internal and external systems, the HiApps product line;
+
+  * Documented functional requirements and translated business requirements for technical teams;
+
+  * Applied prioritization and analysis matrices such as the Eisenhower Matrix and 5W2H in day-to-day product work;
+
+  * Organized and maintained product documentation in Google Drive repositories, with intensive use of spreadsheets;
+
+  Results & visibility:
+  * Took part in Sponsor's Days, events held during the sprints for results presentations across departments, where I presented development updates on HiEmergência, one of the flagship internal products in the HiApps line.
+
+  Tools:
+  * Google Drive, Spreadsheets.
+
+  Methodologies:
+  * Agile methodologies, Eisenhower Matrix, 5W2H.
+````
+````
+    A TT&T Soluções em Informática LTDA desenvolve sistemas internos e externos, entre eles a linha de produtos HiApps. Como Product Manager Estagiário, uni prática e aprendizado estruturado: enquanto aprofundava metodologias ágeis, atuei na coordenação de ritos e na tradução de requisitos ao longo das sprints.
+
+  Principais responsabilidades:
+  * Coordenei e participei de ritos ágeis e demais artefatos de metodologia ágil ao longo das sprints, incluindo dailies;
+
+  * Colaborei ativamente com as equipes de UX/UI na evolução dos sistemas internos e externos da empresa, os idealizados HiApps;
+
+  * Documentei requisitos funcionais e realizei a tradução de requisitos de negócio para as equipes técnicas;
+
+  * Apliquei matrizes de priorização e análise como a matriz de Eisenhower e o 5W2H no dia a dia dos produtos;
+
+  * Organizei e mantive a documentação de produto em repositórios do Google Drive, com uso intensivo de planilhas;
+
+  Resultados e visibilidade:
+  * Participei dos Sponsor's Days, eventos realizados durante as sprints para a apresentação de resultados por diferentes departamentos, onde apresentei as atualizações no desenvolvimento do HiEmergência, um dos principais produtos internos da linha HiApps.
+
+  Ferramentas:
+  * Google Drive, Planilhas.
+
+  Metodologias:
+  * Metodologias ágeis, Matriz de Eisenhower, 5W2H.
+````
+
 ---
 
 <a id="main-projects"></a>
