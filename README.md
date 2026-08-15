@@ -165,41 +165,43 @@ If you work on AI workflows, agentic systems, or automation that has to hold up 
     Kartado is a B2B SaaS company serving the highway concession sector. As a Systems Implementation Intern, I turned client business requirements into software configurations and automated workflows across 42+B2B client environments, operating within Agile frameworks.
 
     Key responsibilities:
-    * Configured JSONLogic rules for dynamic forms across 42+ client environments via Django Admin, ensuring data integrity and functional consistency; corrected GIS maps, adjusted Shapefiles, and validated spatial geometries for highway concession system parameterization;
+    ● Configured JSONLogic rules for dynamic forms across 42+ client environments via Django Admin, ensuring data integrity and functional consistency; corrected GIS maps, adjusted Shapefiles, and validated spatial geometries for highway concession system parameterization;
 
-    * Developed Python ETL automation scripts integrated with Django ORM, replacing manual data transformation workflows; automated the generation of parameterization spreadsheets using Python, Pandas, and openpyxl, reducing manual effort;
+    ● Developed Python ETL automation scripts integrated with Django ORM, replacing manual data transformation workflows; automated the generation of parameterization spreadsheets using Python, Pandas, and openpyxl, reducing manual effort;
 
-    * Built notebook-based Python scripts for JSON metadata extraction, schema validation, and proactive detection of structural inconsistencies in exported datasets; maintained REST API/JWT integration documentation and Pytest validation scripts for Django modules;
+    ● Built notebook-based Python scripts for JSON metadata extraction, schema validation, and proactive detection of structural inconsistencies in exported datasets; maintained REST API/JWT integration documentation and Pytest validation scripts for Django modules;
 
-    * Leveraged AWS IAM, Amazon EC2, Amazon ECS (Docker), AWS Step Functions, ODBC, and Amazon Athena across infrastructure, secure access, data integration, and analytics workflows in client environments;
+    ● Leveraged AWS IAM, Amazon EC2, Amazon ECS (Docker), AWS Step Functions, ODBC, and Amazon Athena across infrastructure, secure access, data integration, and analytics workflows in client environments;
 
     Results:
-    * Nominated for the company's Monthly Agility Award (April 2026).
-    * Contributed to the team's 99.48% on-time technical implementation delivery (July 2026 results review).
-    * Maintained a 100% on-time completion rate for assigned implementation tasks throughout the first half of 2026.
+    ▹ Nominated for the company's Monthly Agility Award (April 2026).
+    ▹ Contributed to the team's 99.48% on-time technical implementation delivery (July 2026 results review).
+    ▹ Maintained a 100% on-time completion rate for assigned implementation tasks throughout the first half of 2026.
+    ▹ Co-led the July re-implementation of 4 companies for a major Northeast Brazil highway concessionaire, partnering with a Commercial Consultant to translate client requirements into agile configurations, custom scripts, and validated tests; project highlighted in the company-wide results review.
 
     Tech Stack:
-    * JSONLogic, Django, Python, Pandas, OpenpyXL, GIS, AWS.
+    *  JSONLogic, Django, Python, Pandas, OpenpyXL, GIS, AWS.
 ````
 ````
     A Kartado é uma empresa de SaaS B2B que atende o setor de concessões rodoviárias. Como Estagiário de Implantação de Sistemas, traduzi requisitos de negócio em configurações de software e fluxos automatizados em mais de 42 ambientes de clientes B2B, atuando em frameworks ágeis.
 
     Principais responsabilidades:
-    * Configurei regras JSONLogic para formulários dinâmicos em mais de 42 ambientes de clientes via Django Admin, garantindo integridade de dados e consistência funcional; corrigi mapas GIS, ajustei Shapefiles e validei geometrias espaciais para a parametrização de sistemas de concessão rodoviária;
+    ● Configurei regras JSONLogic para formulários dinâmicos em mais de 42 ambientes de clientes via Django Admin, garantindo integridade de dados e consistência funcional; corrigi mapas GIS, ajustei Shapefiles e validei geometrias espaciais para a parametrização de sistemas de concessão rodoviária;
 
-    * Desenvolvi scripts Python de automação ETL integrados ao Django ORM, substituindo fluxos manuais de transformação de dados; automatizei a geração de planilhas de parametrização com Python, Pandas e openpyxl, reduzindo o esforço manual;
+    ● Desenvolvi scripts Python de automação ETL integrados ao Django ORM, substituindo fluxos manuais de transformação de dados; automatizei a geração de planilhas de parametrização com Python, Pandas e openpyxl, reduzindo o esforço manual;
 
-    * Construí scripts Python em notebooks para extração de metadados JSON, validação de schema e detecção proativa de inconsistências estruturais em datasets exportados; mantive a documentação de integração REST API/JWT e scripts de validação Pytest para módulos Django;
+    ● Construí scripts Python em notebooks para extração de metadados JSON, validação de schema e detecção proativa de inconsistências estruturais em datasets exportados; mantive a documentação de integração REST API/JWT e scripts de validação Pytest para módulos Django;
 
-    * Utilizei AWS IAM, Amazon EC2, Amazon ECS (Docker), AWS Step Functions, ODBC e Amazon Athena em fluxos de infraestrutura, acesso seguro, integração de dados e analytics nos ambientes dos clientes;
+    ● Utilizei AWS IAM, Amazon EC2, Amazon ECS (Docker), AWS Step Functions, ODBC e Amazon Athena em fluxos de infraestrutura, acesso seguro, integração de dados e analytics nos ambientes dos clientes;
 
     Resultados:
-    * Indicado ao Prêmio Mensal de Agilidade da empresa (abril de 2026).
-    * Contribuí para os 99,48% de entrega técnica no prazo do time (revisão de resultados de julho de 2026).
-    * Mantive 100% de conclusão no prazo nas tarefas de implantação sob minha responsabilidade no primeiro semestre de 2026.
+    ▹ Indicado ao Prêmio Mensal de Agilidade da empresa (abril de 2026).
+    ▹ Contribuí para os 99,48% de entrega técnica no prazo do time (revisão de resultados de julho de 2026).
+    ▹ Mantive 100% de conclusão no prazo nas tarefas de implantação sob minha responsabilidade no primeiro semestre de 2026.
+    ▹ Co-liderei a reimplantação, em julho, de 4 empresas de uma grande concessionária rodoviária do Nordeste, em parceria com um Consultor Comercial, traduzindo requisitos do cliente em configurações ágeis, scripts sob demanda e testes validados; projeto destacado na reunião geral de resultados.
 
     Tech Stack:
-    * JSONLogic, Django, Python, Pandas, OpenpyXL, GIS, AWS.
+    *  JSONLogic, Django, Python, Pandas, OpenpyXL, GIS, AWS.
 ````
 ---
 
@@ -218,39 +220,39 @@ If you work on AI workflows, agentic systems, or automation that has to hold up 
     Daus is a software house/startup delivering internal and multi-client portfolio projects. As a Product Management Learner focused on requirements gathering, I combined hands-on delivery with structured learning: while building fluency in Agile Product Management, I supported product discovery and requirements analysis, turning stakeholder needs into documented, actionable delivery artifacts.
 
     Key responsibilities:
-    * Applied Scrum, Kanban, and Lean Thinking frameworks to drive product discovery in a software house environment;
+    ● Applied Scrum, Kanban, and Lean Thinking frameworks to drive product discovery in a software house environment;
 
-    * Conducted requirements analysis across internal and multi-client portfolio projects;
+    ● Conducted requirements analysis across internal and multi-client portfolio projects;
 
-    * Documented product insights, user flows, and functional requirements across the Atlassian ecosystem (Jira, Confluence) and FigJam;
+    ● Documented product insights, user flows, and functional requirements across the Atlassian ecosystem (Jira, Confluence) and FigJam;
 
     Enablement & impact:
-    * Mentored two intern cohorts across structured onboarding programs in Agile Product Management workflows and MVP-delivery.
+    ▹ Mentored two intern cohorts across structured onboarding programs in Agile Product Management workflows and MVP-delivery.
 
     Tech Stack:
-    * Figma, FigJam, Jira, Confluence.
+    *  Figma, FigJam, Jira, Confluence.
 
     Methodologies:
-    * Scrum, Kanban, Lean Thinking.
+    *  Scrum, Kanban, Lean Thinking.
 ````
 ````
     A Daus é uma software house/startup que entrega projetos internos e de portfólio multi-cliente. Como Product Management Learner com foco em levantamento de requisitos, uni prática e aprendizado estruturado: ao mesmo tempo que desenvolvia fluência em Agile Product Management, atuei em product discovery e análise de requisitos, transformando necessidades de stakeholders em artefatos de entrega documentados e acionáveis.
 
     Principais responsabilidades:
-    * Apliquei os frameworks Scrum, Kanban e Lean Thinking para conduzir product discovery em ambiente de software house;
+    ● Apliquei os frameworks Scrum, Kanban e Lean Thinking para conduzir product discovery em ambiente de software house;
 
-    * Realizei análise de requisitos em projetos internos e de portfólio multi-cliente;
+    ● Realizei análise de requisitos em projetos internos e de portfólio multi-cliente;
 
-    * Documentei insights de produto, user flows e requisitos funcionais no ecossistema Atlassian (Jira, Confluence) e no FigJam;
+    ● Documentei insights de produto, user flows e requisitos funcionais no ecossistema Atlassian (Jira, Confluence) e no FigJam;
 
     Capacitação e impacto:
-    * Mentorei duas turmas de estagiários em programas estruturados de onboarding, cobrindo workflows de Agile Product Management e entrega de MVP.
+    ▹ Mentorei duas turmas de estagiários em programas estruturados de onboarding, cobrindo workflows de Agile Product Management e entrega de MVP.
 
     Tech Stack:
-    * Figma, FigJam, Jira, Confluence.
+    *  Figma, FigJam, Jira, Confluence.
 
     Metodologias:
-    * Scrum, Kanban, Lean Thinking.
+    *  Scrum, Kanban, Lean Thinking.
 ````
 ---
 
@@ -265,18 +267,18 @@ If you work on AI workflows, agentic systems, or automation that has to hold up 
     TT&T Soluções em Informática LTDA develops internal and external systems, including the HiApps product line. As a Product Manager Intern, I combined hands-on delivery with structured learning: while deepening my command of Agile methodologies, I coordinated ceremonies and translated requirements throughout the sprints.
 
   Key responsibilities:
-  * Coordinated and participated in Agile ceremonies and other Agile methodology artifacts throughout the sprints, including dailies;
+  ● Coordinated and participated in Agile ceremonies and other Agile methodology artifacts throughout the sprints, including dailies;
 
-  * Collaborated closely with UX/UI teams on the company's internal and external systems, the HiApps product line;
+  ● Collaborated closely with UX/UI teams on the company's internal and external systems, the HiApps product line;
 
-  * Documented functional requirements and translated business requirements for technical teams;
+  ● Documented functional requirements and translated business requirements for technical teams;
 
-  * Applied prioritization and analysis matrices such as the Eisenhower Matrix and 5W2H in day-to-day product work;
+  ● Applied prioritization and analysis matrices such as the Eisenhower Matrix and 5W2H in day-to-day product work;
 
-  * Organized and maintained product documentation in Google Drive repositories, with intensive use of spreadsheets;
+  ● Organized and maintained product documentation in Google Drive repositories, with intensive use of spreadsheets;
 
   Results & visibility:
-  * Took part in Sponsor's Days, events held during the sprints for results presentations across departments, where I presented development updates on HiEmergência, one of the flagship internal products in the HiApps line.
+  ▹ Took part in Sponsor's Days, events held during the sprints for results presentations across departments, where I presented development updates on HiEmergência, one of the flagship internal products in the HiApps line.
 
   Tools:
   * Google Drive, Spreadsheets.
@@ -288,24 +290,24 @@ If you work on AI workflows, agentic systems, or automation that has to hold up 
     A TT&T Soluções em Informática LTDA desenvolve sistemas internos e externos, entre eles a linha de produtos HiApps. Como Product Manager Estagiário, uni prática e aprendizado estruturado: enquanto aprofundava metodologias ágeis, atuei na coordenação de ritos e na tradução de requisitos ao longo das sprints.
 
   Principais responsabilidades:
-  * Coordenei e participei de ritos ágeis e demais artefatos de metodologia ágil ao longo das sprints, incluindo dailies;
+  ● Coordenei e participei de ritos ágeis e demais artefatos de metodologia ágil ao longo das sprints, incluindo dailies;
 
-  * Colaborei ativamente com as equipes de UX/UI na evolução dos sistemas internos e externos da empresa, os idealizados HiApps;
+  ● Colaborei ativamente com as equipes de UX/UI na evolução dos sistemas internos e externos da empresa, os idealizados HiApps;
 
-  * Documentei requisitos funcionais e realizei a tradução de requisitos de negócio para as equipes técnicas;
+  ● Documentei requisitos funcionais e realizei a tradução de requisitos de negócio para as equipes técnicas;
 
-  * Apliquei matrizes de priorização e análise como a matriz de Eisenhower e o 5W2H no dia a dia dos produtos;
+  ● Apliquei matrizes de priorização e análise como a matriz de Eisenhower e o 5W2H no dia a dia dos produtos;
 
-  * Organizei e mantive a documentação de produto em repositórios do Google Drive, com uso intensivo de planilhas;
+  ● Organizei e mantive a documentação de produto em repositórios do Google Drive, com uso intensivo de planilhas;
 
   Resultados e visibilidade:
-  * Participei dos Sponsor's Days, eventos realizados durante as sprints para a apresentação de resultados por diferentes departamentos, onde apresentei as atualizações no desenvolvimento do HiEmergência, um dos principais produtos internos da linha HiApps.
+  ▹ Participei dos Sponsor's Days, eventos realizados durante as sprints para a apresentação de resultados por diferentes departamentos, onde apresentei as atualizações no desenvolvimento do HiEmergência, um dos principais produtos internos da linha HiApps.
 
   Ferramentas:
-  * Google Drive, Planilhas.
+  *  Google Drive, Planilhas.
 
   Metodologias:
-  * Metodologias ágeis, Matriz de Eisenhower, 5W2H.
+  *  Metodologias ágeis, Matriz de Eisenhower, 5W2H.
 ````
 
 ---
