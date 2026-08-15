@@ -108,7 +108,7 @@
   
 **Achievements & Recognition**
 - [Achievements & Recognition](#achievements-recognition)
-  - [Nomination for Kartado Monthly Agility Award](#award-kartado-agility-2026) | <i>04/2026</i>
+  - [Nomination for Kartado Monthly Agility Award](#award-kartado-agility-2026) | <i>03/2026</i>
   - [Accepted Mentee in Aspire Leaders 2025.2 Cohort 5](#accepted-mentee-alp-2025-2) | <i>10/2025</i>
   
 **Repository Overview**
@@ -566,7 +566,7 @@ IMPORTANTE: defina um [slug-do-evento] único (ex: "google-io-extended-2025") e 
 # Achievements & Recognition
 
 <a id="award-kartado-agility-2026"></a>
-* **Nomination for Kartado Monthly Agility Award** @ Kartado | <i>04/2026</i>
+* **Nomination for Kartado Monthly Agility Award** @ Kartado | <i>03/2026</i>
 
 <a id="accepted-mentee-alp-2025-2"></a>
 * **Accepted Mentee in Aspire Leaders 2025.2 Cohort 5** @ Aspire Institute | <i>10/2025</i> 
