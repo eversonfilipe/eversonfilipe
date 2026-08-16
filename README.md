@@ -64,6 +64,7 @@
 - [Education](#education)
   - [Bachelor's Degree in Computer Science](#graduacao-ciencia-computacao-unifavipwyden) | <i>02/2024-In Progress</i>
   - [Mentorship Program in Artificial Intelligence](#mentoria-labai-institutojoule-ia2025) | <i>08/2025-09/2025</i>
+  - [Inove Aí Innovation Program integrated into the REPE JOUNEY](#inoveai-2025-2024) | <i>03/2025-05/2025 (Did Half-Way)</i>
 - [Courses](#courses)
   - [Introduction to SAFe](#introduction-to-safe) | <i>07/2026</i>
   - [Postman: Do Zero ao Avançado + Testes Automatizados](#curso-postman-zeroaoavancado) | <i>12/2025</i>
@@ -359,6 +360,10 @@ IMPORTANTE: defina um [slug-do-projeto] único (ex: "antigravity-odisseia-estela
 
 <a id="mentoria-labai-institutojoule-ia2025"></a>
 * **LAB.AI** @ Instituto Joule (Mentorship Program) | <i>08/2025-09/2025</i>
+
+<a id="inoveai-2025-2024"></a>
+* **Inove Aí Innovation Program integrated into the REPE JOUNEY** @ UFPE x SECTI-PE (Innovation Program) | <i>03/2025-05/2025 (Did Half-Way)</i>
+
 
 <!--
 TEMPLATE: duplique o bloco abaixo para cada nova formação (graduação, pós-graduação, especialização, etc.).
