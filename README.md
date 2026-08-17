@@ -163,7 +163,10 @@ If you work on AI workflows, agentic systems, or automation that has to hold up 
 </p>
 
 ````
-    Kartado is a B2B SaaS company serving the highway concession sector. As a Systems Implementation Intern, I turned client business requirements into software configurations and automated workflows across 42+B2B client environments, operating within Agile frameworks.
+    Kartado is a B2B SaaS company serving the highway concession sector, providing an integrated platform for asset management,
+    field-service operations, construction, maintenance, and regulatory compliance.
+    As a Systems Implementation Intern, I turned client business requirements into software configurations and automated
+    workflows across 42+B2B client environments, operating within Agile frameworks.
 
     Key responsibilities:
     ● Configured JSONLogic rules for dynamic forms across 42+ client environments via Django Admin, ensuring data integrity and functional consistency; corrected GIS maps, adjusted Shapefiles, and validated spatial geometries for highway concession system parameterization;
@@ -184,7 +187,10 @@ If you work on AI workflows, agentic systems, or automation that has to hold up 
     *  JSONLogic, Django, Python, Pandas, OpenpyXL, GIS, AWS.
 ````
 ````
-    A Kartado é uma empresa de SaaS B2B que atende o setor de concessões rodoviárias. Como Estagiário de Implantação de Sistemas, traduzi requisitos de negócio em configurações de software e fluxos automatizados em mais de 42 ambientes de clientes B2B, atuando em frameworks ágeis.
+    A Kartado é uma empresa de SaaS B2B que atende ao setor de concessões rodoviárias, oferecendo uma plataforma integrada para gestão de ativos,
+    operações de serviços de campo, construção, manutenção e conformidade regulatória.
+    Como Estagiário de Implantação de Sistemas, traduzi requisitos de negócio em configurações de software e fluxos automatizados
+    em mais de 42 ambientes de clientes B2B, atuando em frameworks ágeis.
 
     Principais responsabilidades:
     ● Configurei regras JSONLogic para formulários dinâmicos em mais de 42 ambientes de clientes via Django Admin, garantindo integridade de dados e consistência funcional; corrigi mapas GIS, ajustei Shapefiles e validei geometrias espaciais para a parametrização de sistemas de concessão rodoviária;
@@ -218,7 +224,11 @@ If you work on AI workflows, agentic systems, or automation that has to hold up 
 <p align="center"><img width="400" height="195" alt="Screenshot da Landing Page da Daus, em que Éverson Filipe (eu) fui aprendiz de Product Manager/Agilista." src="assets\daus-experience\daus-website-landing1.png" /></p>
 
 ````
-    Daus is a software house/startup delivering internal and multi-client portfolio projects. As a Product Management Learner focused on requirements gathering, I combined hands-on delivery with structured learning: while building fluency in Agile Product Management, I supported product discovery and requirements analysis, turning stakeholder needs into documented, actionable delivery artifacts.
+    Daus is a Recife-based software house and startup, founded in 2023, that delivers internal and multi-client portfolio projects
+    by combining product strategy, UX/UI design, software development, AI, automation, and SaaS capabilities.
+    As a Product Management Learner focused on requirements gathering, I combined hands-on delivery with structured learning:
+    while building fluency in Agile Product Management, I supported product discovery and requirements analysis,
+    turning stakeholder needs into documented, actionable delivery artifacts.
 
     Key responsibilities:
     ● Applied Scrum, Kanban, and Lean Thinking frameworks to drive product discovery in a software house environment;
@@ -237,7 +247,11 @@ If you work on AI workflows, agentic systems, or automation that has to hold up 
     *  Scrum, Kanban, Lean Thinking.
 ````
 ````
-    A Daus é uma software house/startup que entrega projetos internos e de portfólio multi-cliente. Como Product Management Learner com foco em levantamento de requisitos, uni prática e aprendizado estruturado: ao mesmo tempo que desenvolvia fluência em Agile Product Management, atuei em product discovery e análise de requisitos, transformando necessidades de stakeholders em artefatos de entrega documentados e acionáveis.
+    A Daus é uma software house e startup sediada no Recife, fundada em 2023, que desenvolve projetos internos e soluções para múltiplos clientes,
+    combinando estratégia de produto, design UX/UI, desenvolvimento de software, inteligência artificial, automação e SaaS.
+    Como Product Management Learner com foco em levantamento de requisitos, uni prática e aprendizado estruturado:
+    ao mesmo tempo que desenvolvia fluência em Agile Product Management, atuei em product discovery e análise de requisitos, transformando necessidades
+    de stakeholders em artefatos de entrega documentados e acionáveis.
 
     Principais responsabilidades:
     ● Apliquei os frameworks Scrum, Kanban e Lean Thinking para conduzir product discovery em ambiente de software house;
@@ -265,7 +279,11 @@ If you work on AI workflows, agentic systems, or automation that has to hold up 
 </p><br>
 
 ````
-    TT&T Soluções em Informática LTDA develops internal and external systems, including the HiApps product line. As a Product Manager Intern, I combined hands-on delivery with structured learning: while deepening my command of Agile methodologies, I coordinated ceremonies and translated requirements throughout the sprints.
+    TT&T Soluções em Informática Ltda is a São Paulo based software company founded in 1996 that develops internal and external systems, including the HiApps
+    product line, while maintaining a strong academic and internship oriented profile, offering students opportunities to gain practical experience in
+    software development, information technology, agile methods, and emerging technologies.
+    As a Product Manager Intern, I combined hands-on delivery with structured learning: while deepening my command of Agile methodologies,
+    I coordinated ceremonies and translated requirements throughout the sprints.
 
   Key responsibilities:
   ● Coordinated and participated in Agile ceremonies and other Agile methodology artifacts throughout the sprints, including dailies;
@@ -288,7 +306,11 @@ If you work on AI workflows, agentic systems, or automation that has to hold up 
   * Agile methodologies, Eisenhower Matrix, 5W2H.
 ````
 ````
-    A TT&T Soluções em Informática LTDA desenvolve sistemas internos e externos, entre eles a linha de produtos HiApps. Como Product Manager Estagiário, uni prática e aprendizado estruturado: enquanto aprofundava metodologias ágeis, atuei na coordenação de ritos e na tradução de requisitos ao longo das sprints.
+    A TT&T Soluções em Informática Ltda é uma empresa de software sediada em São Paulo, fundada em 1996, que desenvolve sistemas internos e externos,
+    incluindo a linha de produtos HiApps, mantendo também um forte perfil acadêmico e voltado à formação de estagiários, com oportunidades para
+    estudantes adquirirem experiência prática em desenvolvimento de software, tecnologia da informação, metodologias ágeis e tecnologias emergentes.
+    Como Product Manager Estagiário, uni prática e aprendizado estruturado: enquanto aprofundava metodologias ágeis, atuei na coordenação de ritos e
+    na tradução de requisitos ao longo das sprints.
 
   Principais responsabilidades:
   ● Coordenei e participei de ritos ágeis e demais artefatos de metodologia ágil ao longo das sprints, incluindo dailies;
