@@ -181,7 +181,7 @@ If you work on AI workflows, agentic systems, or automation that has to hold up 
     ▹ Nominated for the company's Monthly Agility Award (April 2026).
     ▹ Contributed to the team's 99.48% on-time technical implementation delivery (July 2026 results review).
     ▹ Maintained a 100% on-time completion rate for assigned implementation tasks throughout the first half of 2026.
-    ▹ Co-led the July re-implementation of 4 companies for a major Northeast Brazil highway concessionaire, partnering with a Commercial Consultant to translate client requirements into agile configurations, custom scripts, and validated tests; project highlighted in the company-wide results review.
+    ▹ Co-led the July re-implementation of 4 companies for a major Northeast Brazil highway concessionaire, partnering with a Commercial Consultant to translate client requirements into agile configurations, custom scripts, and validated tests; project mentioned in the company-wide results review.
 
     Tech Stack:
     *  JSONLogic, Django, Python, Pandas, OpenpyXL, GIS, AWS.
@@ -205,7 +205,7 @@ If you work on AI workflows, agentic systems, or automation that has to hold up 
     ▹ Indicado ao Prêmio Mensal de Agilidade da empresa (abril de 2026).
     ▹ Contribuí para os 99,48% de entrega técnica no prazo do time (revisão de resultados de julho de 2026).
     ▹ Mantive 100% de conclusão no prazo nas tarefas de implantação sob minha responsabilidade no primeiro semestre de 2026.
-    ▹ Co-liderei a reimplantação, em julho, de 4 empresas de uma grande concessionária rodoviária do Nordeste, em parceria com um Consultor Comercial, traduzindo requisitos do cliente em configurações ágeis, scripts sob demanda e testes validados; projeto destacado na reunião geral de resultados.
+    ▹ Co-liderei a reimplantação, em julho, de 4 empresas de uma grande concessionária rodoviária do Nordeste, em parceria com um Consultor Comercial, traduzindo requisitos do cliente em configurações ágeis, scripts sob demanda e testes validados; projeto citado na reunião geral de resultados.
 
     Tech Stack:
     *  JSONLogic, Django, Python, Pandas, OpenpyXL, GIS, AWS.
