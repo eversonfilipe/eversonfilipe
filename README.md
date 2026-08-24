@@ -174,7 +174,7 @@ If you work on AI workflows, agentic systems, or automation that has to hold up 
 
     ● Developed Python ETL automation scripts integrated with Django ORM, replacing manual data transformation workflows; automated the generation of parameterization spreadsheets using Python, Pandas, and openpyxl, reducing manual effort;
 
-    ● Built notebook-based Python scripts for JSON metadata extraction, schema validation, and proactive detection of structural inconsistencies in exported datasets; maintained REST API/JWT integration documentation and Pytest validation scripts for Django modules;
+    ● Built notebook-based Python scripts for JSON metadata extraction, schema validation, and proactive detection of structural inconsistencies in exported datasets;
 
     ● Leveraged AWS IAM, Amazon EC2, Amazon ECS (Docker), AWS Step Functions, ODBC, and Amazon Athena across infrastructure, secure access, data integration, and analytics workflows in client environments;
 
@@ -198,7 +198,7 @@ If you work on AI workflows, agentic systems, or automation that has to hold up 
 
     ● Desenvolvi scripts Python de automação ETL integrados ao Django ORM, substituindo fluxos manuais de transformação de dados; automatizei a geração de planilhas de parametrização com Python, Pandas e openpyxl, reduzindo o esforço manual;
 
-    ● Construí scripts Python em notebooks para extração de metadados JSON, validação de schema e detecção proativa de inconsistências estruturais em datasets exportados; mantive a documentação de integração REST API/JWT e scripts de validação Pytest para módulos Django;
+    ● Construí scripts Python em notebooks para extração de metadados JSON, validação de schema e detecção proativa de inconsistências estruturais em datasets exportados;
 
     ● Utilizei AWS IAM, Amazon EC2, Amazon ECS (Docker), AWS Step Functions, ODBC e Amazon Athena em fluxos de infraestrutura, acesso seguro, integração de dados e analytics nos ambientes dos clientes;
 
