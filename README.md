@@ -54,7 +54,7 @@
 - [Professional Trajectory](#professional-trajectory)
   - [Systems Implementation Intern @ Kartado](#kartado) | <i>09/2025-In Progress</i>
   - [Agile Product Manager Learner @ Daus](#daus) | <i>12/2024-06/2025</i>
-  - [Product Manager Intern @ TT&T Soluções em Informática LTDA](#ttet-solucoes) | <i>09/2024-02/2025</i>
+  - [Product Manager Intern @ TT&T Soluções em Informática LTDA](#ttet-solucoes) | <i>10/2024-02/2025</i>
 
 **Portfolio**
 - [Main Projects](#main-projects)
@@ -273,7 +273,7 @@ If you work on AI workflows, agentic systems, or automation that has to hold up 
 ---
 
 <a id="ttet-solucoes"></a>
-* **Product Manager Intern** @ TT&T Soluções em Informática Ltda | <i>09/2024-02/2025</i><br>
+* **Product Manager Intern** @ TT&T Soluções em Informática Ltda | <i>10/2024-02/2025</i><br>
 <p align="center">
   <img src="https://img.shields.io/badge/Google_Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" alt="Google Drive" />
   <img src="https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white" alt="Google Sheets" />
