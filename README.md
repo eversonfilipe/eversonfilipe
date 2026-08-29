@@ -53,6 +53,7 @@
 **Professional Experience**
 - [Professional Trajectory](#professional-trajectory)
   - [Systems Implementation Intern @ Kartado](#kartado) | <i>09/2025-In Progress</i>
+  - [Programming Tutor @ CESAR](#cesar-programming-tutor-20261) | <i>03/2026-04/2026</i>
   - [Agile Product Manager Learner @ Daus](#daus) | <i>12/2024-06/2025</i>
   - [Product Manager Intern @ TT&T Soluções em Informática LTDA](#ttet-solucoes) | <i>10/2024-02/2025</i>
 
@@ -211,6 +212,64 @@ If you work on AI workflows, agentic systems, or automation that has to hold up 
     Tech Stack:
     *  JSONLogic, Django, Python, Pandas, OpenpyXL, GIS, AWS.
 ````
+---
+<a id="cesar-programming-tutor-20261"></a>
+* **Programming Tutor ● Água Preta, PE** @ CESAR | <i>03/2026-04/2026</i><br>
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+</p><br>
+
+````
+  The Florescendo Talentos Program (FTP) is a free technology-training initiative delivered by
+  CESAR/CESAR School in partnership with the Government of Pernambuco. It prepares public-school high-school
+  and adult-education students for the job market through practical, project-based learning.
+  Selected as a Programming Tutor for a public high school in Água Preta, in the interior of Pernambuco,
+  I taught programming fundamentals while acting as the bridge between CESAR, its instructors, and the students.
+
+  Key responsibilities:
+  ● Tutored first-year students in Lógica de Programação (programming logic) with Python, and second-year students in HTML, CSS, JS, and web design fundamentals;
+
+  ● Acted as mediator between CESAR and its instructors and the students, translating technical concepts for a teenage audience while consolidating my own fundamentals;
+
+  ● Conducted on-site school visits during enrollment periods, enrolling 70+ interested students across first- and second-year cohorts; 
+
+  Impact & takeaways:
+  ● The 70+ enrollments I secured remained with the program, which continued under CESAR's institutional structure and its teaching staff;
+
+  ● The experience gave rise to my talk based on Stephen Duneier's Grey Square, submitted to FLISoL 2026 in Palmares-PE.
+
+  On the length of this engagement:
+  *  This was a fixed-term tutoring engagement with CESAR, open to university students. I concluded it after delivering the enrollment cycle,
+    choosing to concentrate my availability on my Implementation Analyst internship at
+    Kartado rather than split it across two commitments in different cities.
+````
+````
+  O Programa Florescendo Talentos (PFT) é uma iniciativa gratuita de formação em tecnologia realizada pelo
+  CESAR/CESAR School em parceria com o Governo de Pernambuco. O programa prepara estudantes de Ensino Médio e da
+  educação de jovens e adultos da rede pública para o mercado de trabalho por meio de aprendizagem prática baseada em projetos.
+  Selecionado como Tutor de Programação em uma escola de Ensino Médio de Água Preta, no interior de Pernambuco,
+  ensinei fundamentos de programação enquanto atuava como ponte entre o CESAR, seus professores e os estudantes.
+
+  Principais responsabilidades:
+  ● Tutorei os primeiros anos em Lógica de Programação com Python e os segundos anos em HTML, CSS, JS e noções de design de websites;
+
+  ● Atuei como mediador entre o CESAR e seus professores e os estudantes, comunicando conceitos tecnológicos a adolescentes enquanto validava meus próprios fundamentos;
+
+  ● Realizei visitas presenciais à escola nos períodos de inscrições, acumulando a inscrição de mais de 70 estudantes interessados entre primeiros e segundos anos;
+
+  Impacto e aprendizados:
+  ● As mais de 70 inscrições que captei permaneceram no programa, que seguiu sob a estrutura institucional do CESAR e de seu corpo docente;
+
+  ● A experiência deu origem à minha palestra baseada no Quadrado Cinza de Stephen Duneier, submetida ao FLISoL 2026 em Palmares-PE.
+
+  Sobre a duração desta atuação:
+  *  Tratou-se de uma atuação de tutoria com prazo determinado junto ao CESAR, aberta a estudantes universitários.
+    Encerrei-a após entregar o ciclo de inscrições, optando por concentrar minha disponibilidade no estágio como
+    Analista de Implantação na Kartado em vez de dividi-la entre dois compromissos em cidades diferentes.
+````
+
 ---
 
 <a id="daus"></a>
