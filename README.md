@@ -126,14 +126,14 @@
 <a id="who-everson-filipe-is"></a>
 #### Who Éverson Filipe is
 
-I'm an Implementation Analyst intern at Kartado, turning client requirements into scalable configurations for large road concession and infrastructure companies. I'm building toward AI Engineer — agentic systems, tool calling and workflow orchestration.
+I'm an Implementation Analyst intern at Kartado, turning client requirements into scalable configurations for large road concession and infrastructure companies. I'm building toward AI Systems Analysis — agentic systems, tool calling and workflow orchestration.
 
 <a id="my-standards-are"></a>
 #### My standards are
 
 Today I configure, integrate and validate client production environments through implementation: parameterization, cloud integrations and data validation. That means the work is measured in reliability, what I ship is what the client operates on.
 
-I'm early in my career and deliberate about where it goes: AI Engineer, focused on agentic AI, function calling and workflow orchestration. I'm currently building agentic projects that call real functions, mostly through MCP (Model Context Protocol).
+I'm early in my career and deliberate about where it goes: AI Systems Analysis, focused on agentic AI, function calling and workflow orchestration. I'm currently building agentic projects that call real functions, mostly through MCP (Model Context Protocol).
 
 ● In production: Python, Django, JSONLogic, AWS IAM, AWS S3
 ● Building with: Model Context Protocol (MCP), function calling, Spec-Driven Development, TDD
