@@ -126,20 +126,27 @@
 <a id="who-everson-filipe-is"></a>
 #### Who Éverson Filipe is
 
-I'm an early-career **Systems Analyst** focused on **AI Engineering** and **Implementation Engineering**, transforming business requirements into reliable software configurations, standardized workflows, and production-ready solutions for B2B environments. My experience with ERP and SaaS platforms has strengthened my foundation in systems analysis, automation, cloud integrations, and software implementation, while I continue building practical expertise in **LLMs, Agentic AI, RAG, LangChain, LangGraph, and GenAI**.
+I'm an Implementation Analyst intern at Kartado, turning client requirements into scalable configurations for large road concession and infrastructure companies. I'm building toward AI Engineer — agentic systems, tool calling and workflow orchestration.
 
 <a id="my-standards-are"></a>
 #### My standards are
 
-I believe **AI is an extension of software engineering**. My work combines systems implementation, workflow automation, data integrity, and scalable architectures to build reliable solutions that solve real business problems. I'm continuously expanding my technical foundation while collaborating with multidisciplinary teams and applying AI concepts through practical projects.
+Today I configure, integrate and validate client production environments through implementation: parameterization, cloud integrations and data validation. That means the work is measured in reliability, what I ship is what the client operates on.
+
+I'm early in my career and deliberate about where it goes: AI Engineer, focused on agentic AI, function calling and workflow orchestration. I'm currently building agentic projects that call real functions, mostly through MCP (Model Context Protocol).
+
+● In production: Python, Django, JSONLogic, AWS IAM, AWS S3
+● Building with: Model Context Protocol (MCP), function calling, Spec-Driven Development, TDD
 
 <a id="my-results-and-metrics"></a>
 #### My Results and Metrics
-That discipline produced measurable results early: **32% of my team's output** in my first months, a **100% personal on-time delivery rate** through H1 2026, and a nomination for my company's Monthly Agility Award.
+● Scale: 42+ client units configured or analyzed at Kartado; <br>
+● Reliability: 99.48% completeness in my first implementation semester; <br>
+● Build: 10+ hackathons as a participant, one as an organizer; <br>
+● Recognition: nominated for Kartado's Agility Award (March 2026); selected for AI/R's Agentic Payments program; <br>
+● Range: English C1; IT event co-organizer; active in volunteer causes and tech communities. <br>
 
-I'm extending this into **Agentic AI** through hands-on work on how a system calls external tools reliably, how its outputs are evaluated before anyone trusts them, and what happens when it fails in front of a real client. My focus is deployment rather than demonstration. A language model can generate an agent in seconds. Making that agent behave correctly across dozens of environments with different rules, real data, and contractual obligations is a different problem, and it's the one I'm building toward.
-
-If you work on AI workflows, agentic systems, or automation that has to hold up with real clients, let's connect!
+If you're building agentic systems connected to the real world through MCP, send me the problem, and I'll take it from there!
 
 ---
 * I'm currently working on **KARTADO**
