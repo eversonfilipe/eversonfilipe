@@ -126,27 +126,18 @@
 <a id="who-everson-filipe-is"></a>
 #### Who Éverson Filipe is
 
-I'm an Implementation Analyst intern at Kartado, turning client requirements into scalable configurations for large road concession and infrastructure companies. I'm building toward AI Systems Analysis — agentic systems, tool calling and workflow orchestration.
+I'm an Implementation Analyst intern at Kartado, turning client requirements into scalable configurations for road concession and infrastructure companies. I configure, integrate and validate production environments, and I am measured by reliability: what I ship is what the client operates on.
 
 <a id="my-standards-are"></a>
 #### My standards are
 
-Today I configure, integrate and validate client production environments through implementation: parameterization, cloud integrations and data validation. That means the work is measured in reliability, what I ship is what the client operates on.
-
-I'm early in my career and deliberate about where it goes: AI Systems Analysis, focused on agentic AI, function calling and workflow orchestration. I'm currently building agentic projects that call real functions, mostly through MCP (Model Context Protocol).
-
-● In production: Python, Django, JSONLogic, AWS IAM, AWS S3
-● Building with: Model Context Protocol (MCP), function calling, Spec-Driven Development, TDD
+I'm early in my career and deliberate about where it goes: AI Engineer, focused on agentic AI, function calling and workflow orchestration. In production I work with Python, Django, JSONLogic and AWS. I'm currently building with the Model Context Protocol (MCP) and function calling, keeping clear what has already shipped and what has not.
 
 <a id="my-results-and-metrics"></a>
 #### My Results and Metrics
-● Scale: 42+ client units configured or analyzed at Kartado; <br>
-● Reliability: 99.48% completeness in my first implementation semester; <br>
-● Build: 10+ hackathons as a participant, one as an organizer; <br>
-● Recognition: nominated for Kartado's Agility Award (March 2026); selected for AI/R's Agentic Payments program; <br>
-● Range: English C1; IT event co-organizer; active in volunteer causes and tech communities. <br>
+So far: 42+ client units configured or analyzed, a first implementation semester closed at 99.48% completeness, a nomination for Kartado's Agility Award (March 2026), and a place in AI/R's Agentic Payments program. Outside work: 10+ hackathons, one of them organized, IT event co-organization, and English at C1.
 
-If you're building agentic systems connected to the real world through MCP, send me the problem, and I'll take it from there!
+If you're building agentic systems connected to the real world through MCP, send me the problem.
 
 ---
 * I'm currently working on **KARTADO**
