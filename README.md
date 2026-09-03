@@ -110,7 +110,7 @@
   
 **Achievements & Recognition**
 - [Achievements & Recognition](#achievements-recognition)
-  - [Selected for AI/R's Agentic Payments professional bootcamp, covering Node.js, TypeScript, and Agentic AI Engineering](#selected-for-air-agentic-payments-bootcamp-2026-08) | <i>08/2026</i>
+  - [Selected for AI/R's Agentic Payments professional fellowship, covering Node.js, TypeScript, and Agentic AI Engineering](#selected-for-air-agentic-payments-fellowship-2026-08) | <i>08/2026</i>
   - [Nomination for Kartado Monthly Agility Award](#award-kartado-agility-2026) | <i>03/2026</i>
   - [Accepted Mentee in Aspire Leaders 2025.2 Cohort 5](#accepted-mentee-alp-2025-2) | <i>10/2025</i>
   
@@ -650,8 +650,8 @@ IMPORTANTE: defina um [slug-do-evento] único (ex: "google-io-extended-2025") e 
 <a id="achievements-recognition"></a>
 # Achievements & Recognition
 
-<a id="selected-for-air-agentic-payments-bootcamp-2026-08"></a>
-* **Selected for AI/R's Agentic Payments Professional Bootcamp** @ AI/R | <i>08/2026</i>
+<a id="selected-for-air-agentic-payments-fellowship-2026-08"></a>
+* **Selected for AI/R's Agentic Payments Professional fellowship** @ AI/R | <i>08/2026</i>
 
 <a id="award-kartado-agility-2026"></a>
 * **Nomination for Kartado Monthly Agility Award** @ Kartado | <i>03/2026</i>
