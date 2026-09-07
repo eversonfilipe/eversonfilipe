@@ -52,10 +52,10 @@
 
 **Professional Experience**
 - [Professional Trajectory](#professional-trajectory)
-  - [Systems Implementation Intern @ Kartado](#kartado) | <i>09/2025-In Progress</i>
-  - [Programming Tutor @ CESAR](#cesar-programming-tutor-20261) | <i>03/2026-04/2026</i>
-  - [Agile Product Manager Learner @ Daus](#daus) | <i>12/2024-06/2025</i>
-  - [Product Manager Intern @ TT&T Soluções em Informática LTDA](#ttet-solucoes) | <i>10/2024-02/2025</i>
+  - [Systems Implementation Intern @ Kartado Tecnologia Ltda.](#kartado) | <i>09/2025-In Progress</i>
+  - [Programming Tutor @ Centro de Estudos e Sistemas Avançados do Recife (CESAR)](#cesar-programming-tutor-20261) | <i>03/2026-04/2026</i>
+  - [Agile Product Manager Learner @ Daus Studio Ltda.](#daus) | <i>12/2024-06/2025</i>
+  - [Product Manager Intern @ TT&T Soluções em Informática Ltda.](#ttet-solucoes) | <i>10/2024-02/2025</i>
 
 **Portfolio**
 - [Main Projects](#main-projects)
@@ -149,7 +149,7 @@ If you're building agentic systems connected to the real world through MCP, send
 # Professional Trajectory
 
 <a id="kartado"></a>
-* **Systems Implementation Intern** @ Kartado | <i>09/2025-In Progress</i><br>
+* **Systems Implementation Intern** @ Kartado Tecnologia Ltda. | <i>09/2025-In Progress</i><br>
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
@@ -212,7 +212,7 @@ If you're building agentic systems connected to the real world through MCP, send
 ````
 ---
 <a id="cesar-programming-tutor-20261"></a>
-* **Programming Tutor ● Água Preta, PE** @ CESAR | <i>03/2026-04/2026</i><br>
+* **Programming Tutor ● Água Preta, PE** @ Centro de Estudos e Sistemas Avançados do Recife (CESAR) | <i>03/2026-04/2026</i><br>
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
@@ -271,7 +271,7 @@ If you're building agentic systems connected to the real world through MCP, send
 ---
 
 <a id="daus"></a>
-* **Product Management Learner | Requirements Gathering & Jira** @ Daus | <i>12/2024-06/2025</i><br>
+* **Product Management Learner | Requirements Gathering & Jira** @ Daus Studio Ltda. | <i>12/2024-06/2025</i><br>
 <p align="center">
   <img src="https://img.shields.io/badge/Scrum-009FDA?style=for-the-badge&logo=scrumalliance&logoColor=white" alt="Scrum" />
   <img src="https://img.shields.io/badge/Kanban-FF6600?style=for-the-badge&logo=kanban&logoColor=white" alt="Kanban" />
@@ -330,7 +330,7 @@ If you're building agentic systems connected to the real world through MCP, send
 ---
 
 <a id="ttet-solucoes"></a>
-* **Product Manager Intern** @ TT&T Soluções em Informática Ltda | <i>10/2024-02/2025</i><br>
+* **Product Manager Intern** @ TT&T Soluções em Informática Ltda. | <i>10/2024-02/2025</i><br>
 <p align="center">
   <img src="https://img.shields.io/badge/Google_Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" alt="Google Drive" />
   <img src="https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white" alt="Google Sheets" />
@@ -654,7 +654,7 @@ IMPORTANTE: defina um [slug-do-evento] único (ex: "google-io-extended-2025") e 
 * **Selected for AI/R's Agentic Payments Professional fellowship** @ AI/R | <i>08/2026</i>
 
 <a id="award-kartado-agility-2026"></a>
-* **Nomination for Kartado Monthly Agility Award** @ Kartado | <i>03/2026</i>
+* **Nomination for Kartado Monthly Agility Award** @ Kartado Tecnologia Ltda. | <i>03/2026</i>
 
 <a id="accepted-mentee-alp-2025-2"></a>
 * **Accepted Mentee in Aspire Leaders 2025.2 Cohort 5** @ Aspire Institute | <i>10/2025</i> 
