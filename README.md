@@ -78,7 +78,10 @@
   - [Comunicación Intercultural - Proyecto Internacional](#comunicacion-intercultural-proyecto-internacional) | <i>10/2024</i>
   - [Competência Transversal - Tecnologia da Informação e Comunicação](#curso-competencia-transversal-senaisp-2023) | <i>11/2023</i>
 - [Certifications](#certifications)
-  <!-- - [Nome da Certificação](#slug-da-certificacao) -->
+  - [Data Analysis for Decision-Making @ UniFavip Wyden](#analise-de-dados-tomada-decisao) | <i>12/2025</i>
+  - [Rapid Application Development in Python for Cloud, IoT, and Big Data @ UniFavip Wyden](#rapid-development-python-cloud-iot-bigdata) | <i>12/2025</i>
+  - [Information Management, Organization, and Retrieval @ UniFavip Wyden](#information-management-org-retrieval) | <i>07/2025</i>
+  - [Web Programming @ UniFavip Wyden](#web-programming-wyden) | <i>12/2024</i> 
 
 **Community & Impact**
 - [Volunteering](#volunteering)
@@ -517,7 +520,17 @@ IMPORTANTE: defina um [slug-do-curso] único (ex: "aws-cloud-practitioner-course
 <a id="certifications"></a>
 # Certifications
 
-*Under construction.*
+<a id="analise-de-dados-tomada-decisao"></a>
+* **Data Analysis for Decision-Making** @ UniFavip Wyden (Certification) | <i>12/2025</i>
+
+<a id="rapid-development-python-cloud-iot-bigdata"></a>
+* **Rapid Application Development in Python for Cloud, IoT, and Big Data** @ UniFavip Wyden (Certification) | <i>12/2025</i>
+
+<a id="information-management-org-retrieval"></a>
+* **Information Management, Organization, and Retrieval** @ UniFavip Wyden (Certification) | <i>07/2025</i>
+
+<a id="web-programming-wyden"></a>
+* **Web Programming** @ UniFavip Wyden (Certification) | <i>12/2024</i>
 
 <!--
 TEMPLATE: duplique a linha abaixo para cada nova certificação.
